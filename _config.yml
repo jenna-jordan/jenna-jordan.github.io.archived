@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Learning Librarian"
+title                    : "Jenna Jordan"
 title_separator          : "-"
 name                     : "Jenna Jordan"
 description              : "A personal blog about the things I learn for my MSLIS degree and my thoughts along the way."
 url                      : "https://jenna-jordan.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "jenna-jordan/jenna-jordan.github.io"
+repository               : "jenna-jordan.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
