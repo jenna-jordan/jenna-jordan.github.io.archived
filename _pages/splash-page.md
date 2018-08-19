@@ -4,14 +4,16 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.2"
+  overlay_filter: "0.1"
   overlay_image: /assets/images/home_splash_malt.jpg
   cta_label: "Download my resume"
   cta_url:   "/assets/docs/resume.pdf"
   # caption:   "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "to _my_ world of Digital Library Science."
+excerpt: "to my world of Digital Library Science."
 intro:
-  - excerpt: 'Follow me as I learn about library science, coding for libraries, data & digital asset management, and more. This blog hosts my class notes, random thoughts, and serves as an archive of my experiences as I complete my MSLIS at UIUC.'
+  - excerpt: 'Follow me as I learn about library science, coding for libraries, data & digital asset management, and more.
+
+  This blog hosts my class notes, random thoughts, and serves as an archive of my experiences as I complete my MSLIS at UIUC.'
 feature_row:
   - image_path: /assets/images/home_splash_blog.jpg
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
