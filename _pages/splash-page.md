@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.2"
-  overlay_image: /assets/images/home_splash_main.jpg
+  overlay_image: /assets/images/home_splash_malt.jpg
   cta_label: "Download my resume"
   cta_url:   "/assets/docs/resume.pdf"
   # caption:   "Photo credit: [**Unsplash**](https://unsplash.com)"
