@@ -18,7 +18,7 @@ feature_row:
   - image_path: /assets/images/home_splash_blog.jpg
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "typewriter"
-    title: "Blog"
+    title: "My Blog"
     excerpt: "Read my latest content at the blog."
     url: "/blog/"
     btn_label: "Recent posts"
