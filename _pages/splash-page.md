@@ -3,13 +3,13 @@ title: "Welcome..."
 layout: splash
 permalink: /
 header:
-  # overlay_color: "#000"
-  # overlay_filter: "0.5"
+  overlay_color: "#000"
+  overlay_filter: "0.2"
   overlay_image: /assets/images/home_splash_main.jpg
   # cta_label: "Download"
   # cta_url:   "https://github.com/mmistakes/minimal-mistakes/"
   # caption:   "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "to _my_ world of `Digital Library Science`."
+excerpt: "to _my_ world of Digital Library Science."
 intro:
   - excerpt: 'Follow me as I learn about library science, coding for libraries, data & digital asset management, and more. This blog hosts my class notes, random thoughts, and serves as an archive of my experiences as I complete my MSLIS at UIUC.'
 feature_row:
@@ -30,7 +30,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/home_splash_resume.jpg
     title: "Resume"
-    excerpt: "Interested in working with me? Click here to view and download my resume."
+    excerpt: "Interested in working with me? See my resume."
     url: "/resume"
     btn_label: "Resume"
     btn_class: "btn--primary"
