@@ -13,7 +13,7 @@ excerpt: "to _my_ world of Digital Library Science."
 intro:
   - excerpt: 'Follow me as I learn about library science, coding for libraries, data & digital asset management, and more. This blog hosts my class notes, random thoughts, and serves as an archive of my experiences as I complete my MSLIS at UIUC.'
 feature_row:
-  - image_path: assets/images/home_splash_blog.jpg
+  - image_path: /assets/images/home_splash_blog.jpg
     # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "typewriter"
     title: "Blog"
@@ -21,7 +21,7 @@ feature_row:
     url: "/blog"
     btn_label: "Recent posts"
     btn_class: "btn--primary"
-  - image_path: /assets/images/home_splash_classnotes.jpg
+  - image_path: /assets/images/home_splash_classes.jpg
     alt: "notebook"
     title: "Class Notes"
     excerpt: "Follow along and learn what I'm learning!"
@@ -30,7 +30,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/home_splash_resume.jpg
     title: "Resume"
-    excerpt: "Interested in working with me? See my resume."
+    excerpt: "See what I've done so far."
     url: "/resume"
     btn_label: "Resume"
     btn_class: "btn--primary"
