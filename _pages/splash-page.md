@@ -6,8 +6,8 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.2"
   overlay_image: /assets/images/home_splash_main.jpg
-  # cta_label: "Download"
-  # cta_url:   "https://github.com/mmistakes/minimal-mistakes/"
+  cta_label: "Download my resume"
+  cta_url:   "/assets/docs/resume.pdf"
   # caption:   "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "to _my_ world of Digital Library Science."
 intro:
@@ -18,21 +18,21 @@ feature_row:
     alt: "typewriter"
     title: "Blog"
     excerpt: "Read my latest content at the blog."
-    url: "/blog"
+    url: "/blog/"
     btn_label: "Recent posts"
     btn_class: "btn--primary"
   - image_path: /assets/images/home_splash_classes.jpg
     alt: "notebook"
     title: "Class Notes"
     excerpt: "Follow along and learn what I'm learning!"
-    url: "/class-notes"
+    url: "/class-notes/"
     btn_label: "Classes"
     btn_class: "btn--primary"
-  - image_path: /assets/images/home_splash_resume.jpg
-    title: "Resume"
-    excerpt: "See what I've done so far."
-    url: "/resume"
-    btn_label: "Resume"
+  - image_path: /assets/images/home_splash_profile.jpg
+    title: "About Me"
+    excerpt: "Who is Jenna Jordan?"
+    url: "/about/"
+    btn_label: "Learn more"
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
