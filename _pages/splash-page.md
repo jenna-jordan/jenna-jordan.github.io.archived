@@ -11,8 +11,7 @@ header:
   # caption:   "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "to my world of Digital Library Science."
 intro:
-  - excerpt: 'Follow me as I learn about library science, coding for libraries, data & digital asset management, and more.
-
+  - excerpt: 'Follow me as I learn about library science, coding for libraries, data & digital asset management, and more.  
   This blog hosts my class notes, random thoughts, and serves as an archive of my experiences as I complete my MSLIS at UIUC.'
 feature_row:
   - image_path: /assets/images/home_splash_blog.jpg
