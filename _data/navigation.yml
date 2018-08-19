@@ -2,11 +2,11 @@
 main:
   - title: "Home"
     url: /
-  - title: "About"
-    url: /about/
   - title: "Blog"
     url: /blog/
   - title: "Classes"
     url: /class-notes/
+  - title: "About"
+    url: /about/
   # - title: "Sitemap"
   #   url: /sitemap/
