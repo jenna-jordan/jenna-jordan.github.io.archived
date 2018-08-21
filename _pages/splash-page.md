@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.1"
   overlay_image: /assets/images/home_splash_malt.jpg
   cta_label: "Download my resume"
-  cta_url:   "/assets/docs/resume.pdf"
+  cta_url:   "https://drive.google.com/open?id=1ZjkKBDqj16r-JbzXPYXUXkPkcnVqkogu"
   # caption:   "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "to my world of Digital Library Science."
 intro:
