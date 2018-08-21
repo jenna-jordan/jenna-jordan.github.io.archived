@@ -8,7 +8,6 @@ header:
   overlay_image: /assets/images/home_splash_malt.jpg
   cta_label: "Download my resume"
   cta_url:   "https://drive.google.com/open?id=1cIGer2UH0QU3paGD46R5iXc6uK3p0jJc"
-      {:target="_blank"}
   # caption:   "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "to my world of Digital Library Science."
 intro:
