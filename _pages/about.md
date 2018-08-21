@@ -33,6 +33,7 @@ This blog is an effort to help me learn in a more meaningful way. There are mult
 > “If you can’t explain it simply, you don’t understand it well enough.”
 
 <cite> Attributed to Albert Einstein </cite>
+{: .small}
 
   1. Write the name of the concept.
   2. Write out an explanation of the concept as if you were explaining it to a layperson (or a child) who has no knowledge of the concept. This will highlight what you understand, but also...
