@@ -1,0 +1,67 @@
+prose:
+    # Configurations ...
+  rooturl: '_posts'
+  siteurl: 'https://jenna-jordan.github.io/'
+  relativeLinks: 'https://jenna-jordan.github.io/links.jsonp'
+  media: '/assets/'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - vendor
+    - .asset-cache
+    - .bundle
+    - .jekyll-assets-cache
+    - .sass-cache
+    - assets/css
+    - assets/js
+    - Capfile
+    - CHANGELOG
+    - config
+    - Gemfile
+    - Gruntfile.js
+    - gulpfile.js
+    - LICENSE
+    - log
+    - node_modules
+    - package.json
+    - Rakefile
+    - README
+    - tmp
+    - /docs # ignore Minimal Mistakes /docs
+    - /test # ignore Minimal Mistakes /test
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "date"
+        field:
+            element: "text"
+            value: "CURRENT_DATETIME"
+      - name: "image"
+        field:
+          element: "text"
+          label: "Add Image to Post"
+          placeholder: "Image path (relative to /assets/)"
+          alterable: true
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "category"
+        field:
+          element: "multiselect"
+          label: "Add Categories"
+          placeholder: "Choose Tags"
+          alterable: true
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          alterable: true

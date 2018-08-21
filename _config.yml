@@ -269,8 +269,6 @@ defaults:
       comments: # true
       share: true
       related: true
-      categories: ""
-      tags: ""
 
 defaults:
   # _pages
