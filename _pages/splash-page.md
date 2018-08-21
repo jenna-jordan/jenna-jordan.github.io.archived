@@ -12,7 +12,7 @@ header:
 excerpt: "to my world of Digital Library Science."
 intro:
   - excerpt: 'Follow me as I learn about library science, coding for libraries, data & digital asset management, and more.  
-
+  </br>
   This blog hosts my class notes, random thoughts, and serves as an archive of my experiences as I complete my MSLIS at UIUC.'
 feature_row:
   - image_path: /assets/images/home_splash_blog.jpg
