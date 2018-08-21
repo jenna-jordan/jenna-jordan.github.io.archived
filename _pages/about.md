@@ -35,11 +35,15 @@ This blog is an effort to help me learn in a more meaningful way. There are mult
 <cite> Attributed to Albert Einstein </cite>
 {: .small}
 
+### The Feynman Technique
+
   1. Write the name of the concept.
   2. Write out an explanation of the concept as if you were explaining it to a layperson (or a child) who has no knowledge of the concept. This will highlight what you understand, but also...
   3. Pinpoint the gaps in your knowledge of the concept. Then go back and reread/relearn it to fill in these gaps. Remember, a child will always ask: _"Why?"_
   4. Repeat steps two and three as many times as necessary.
   5. Edit your explanation, aiming for simplicity over complexity. Use analogies. Use examples. Use illustrations.
+
+## In conclusion...
 
 I am mostly going to be using this blog as a tool to help me take notes, organize those notes, and edit those notes according to the Feynman technique. Hopefully this means that it will be a resource for anybody else who is interested in learning about digital library science, but I am mostly creating this for myself. Writing helps me process, and there is going to be a lot of information for my brain to process!
 
