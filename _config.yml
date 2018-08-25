@@ -283,16 +283,16 @@ defaults:
 collections:
   collections_dir: class_collections
   is501:
-    output: true
+    output: false
     permalink: /:collection/:path/
   is452:
-    output: true
+    output: false
     permalink: /:collection/:path/
   is490db:
-    output: true
+    output: false
     permalink: /:collection/:path/
   phil103:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 #Prose Configuration
