@@ -278,19 +278,3 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-# Collections (For grouping notes by class)
-collections_dir: class_collections
-collections:
-  is501:
-    output: true
-    permalink: /:collection/:path/
-  is452:
-    output: true
-    permalink: /:collection/:path/
-  is490db:
-    output: true
-    permalink: /:collection/:path/
-  phil103:
-    output: true
-    permalink: /:collection/:path/
