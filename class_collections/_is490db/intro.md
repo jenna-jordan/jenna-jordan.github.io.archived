@@ -1,5 +1,5 @@
 ---
-title: intro
+title: IS490DB
 tags:
   - is490db
 ---

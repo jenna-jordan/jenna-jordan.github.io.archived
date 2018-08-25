@@ -1,5 +1,5 @@
 ---
-title: intro
+title: PHIL103
 tags:
   - phil103
 ---

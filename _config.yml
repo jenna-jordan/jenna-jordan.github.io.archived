@@ -280,8 +280,8 @@ defaults:
       author_profile: true
 
 # Collections (For grouping notes by class)
+collections_dir: class_collections
 collections:
-  collections_dir: class_collections
   is501:
     output: false
     permalink: /:collection/:path/
