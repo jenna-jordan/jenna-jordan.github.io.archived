@@ -27,7 +27,7 @@ feature_row:
     alt: "notebook"
     title: "Class Notes"
     excerpt: "Follow along and see what I'm learning!"
-    url: "/classes/"
+    url: "/class-notes/"
     btn_label: "Classes"
     btn_class: "btn--primary"
   - image_path: /assets/images/home_splash_profile.jpg
