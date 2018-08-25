@@ -255,6 +255,8 @@ compress_html:
   ignore:
     envs: development
 
+# force Github API metadata for local env
+github: [metadata]
 
 # Defaults
 defaults:
