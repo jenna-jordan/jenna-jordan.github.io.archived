@@ -42,7 +42,7 @@ Text copied from the course site.
 
 3. To be able to design, develop and test a moderately complex computer program to manage full text, bibliographic records or multimedia
 
-### Textbooks & Resources
+## Textbooks & Resources
 
 Primary Textbook
 :     "Python Programming: an introduction to computer science" (3rd Ed), by John Zelle
