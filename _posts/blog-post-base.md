@@ -1,12 +1,11 @@
 ---
-layout: post
 title:
 published: # True / False
 
 categories:
-  - # Class Notes, Readings, Lectures
+  - # IS501, IS452, IS490DB, PHIL103
 tags:
-  - # Semester 1, IS501, library science, IS452, python, IS490DB, databases, PHIL103, logic
+  - # IS501, IS452, IS490DB, PHIL103, Semester 1, Library Science, Python, Databases, Logic, Course Intro, Class Notes, Readings, Lectures
 
 sidebar: # note: optional, but should include for class notes posts
   title: # title of nav bar that shows in post
