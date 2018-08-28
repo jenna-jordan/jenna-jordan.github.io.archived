@@ -24,6 +24,9 @@ Text copied from the course site.
 [Visit the course site](#https://courses.ischool.illinois.edu/course/view.php?id=3407){: .btn .btn--info}
 [Visit the course GitHub repo](#https://github.com/elliewix/IS-452-Fall2018){: .btn .btn--info}
 
+Please note: course sites are generally only accessible to students. The links are really for my convenience, not your accessibility.
+{: .notice--warning}
+
 ### Course Description
 
 > This course covers the common data and document processing constructs and programming concepts used in library and information science. The history, strengths and weaknesses of the techniques are evaluated in the context of our discipline. These constructs and techniques form the basis of applications in areas such as bibliographic records management, full text management and multimedia. No prior programming background is assumed. The first half of the course will focus on programming essentials in Python, and the second half will have us explore other applications and how to integrate the fundamentals to solve more complex problems.

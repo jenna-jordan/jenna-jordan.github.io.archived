@@ -23,6 +23,9 @@ Text copied from the course site.
 
 [Visit the course site](#https://courses.ischool.illinois.edu/course/view.php?id=3415){: .btn .btn--info}
 
+Please note: course sites are generally only accessible to students. The links are really for my convenience, not your accessibility.
+{: .notice--warning}
+
 ### Course Description
 
 > The course provides students with both theoretical and practical training in good database design. By the end of the course students will create a conceptual data model using entity-relationship diagrams, understand the importance of referential integrity and how to enforce data integrity constraints when creating a database. Students will be proficient in writing basic queries in the structured query language (SQL) and have a general understanding of relational database theory including normalization.

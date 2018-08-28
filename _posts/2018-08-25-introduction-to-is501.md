@@ -23,7 +23,10 @@ This class meets two times a week. The Tuesday class will be one giant class inc
 Text copied from the course site.
 
 [Visit the main course site](#https://courses.ischool.illinois.edu/course/view.php?id=3524){: .btn .btn--info}
-[Visit my section's course site](#https://courses.ischool.illinois.edu/course/view.php?id=3424){: .btn .btn--info}
+[Visit the section's course site](#https://courses.ischool.illinois.edu/course/view.php?id=3424){: .btn .btn--info}
+
+Please note: course sites are generally only accessible to students. The links are really for my convenience, not your accessibility.
+{: .notice--warning}
 
 ### Course Description
 
