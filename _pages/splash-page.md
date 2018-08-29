@@ -16,7 +16,6 @@ intro:
   This blog hosts my class notes, random thoughts, and serves as an archive of my experiences as I complete my MSLIS at UIUC.'
 feature_row:
   - image_path: /assets/images/home_splash_blog.jpg
-    # image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "typewriter"
     title: "My Blog"
     excerpt: "Read my latest content at the blog."
@@ -28,14 +27,16 @@ feature_row:
     title: "Class Notes"
     excerpt: "Follow along and see what I'm learning!"
     url: "/class-notes/"
-    btn_label: "Classes"
+    btn_label: "My Classes"
     btn_class: "btn--primary"
-  - image_path: /assets/images/home_splash_profile.jpg
-    title: "About Me"
-    excerpt: "Who is Jenna Jordan?"
-    url: "/about/"
-    btn_label: "Learn more"
+  - image_path: /assets/images/home_splash_books.jpg
+    alt: "library hidden door"
+    title: "Codex Index"
+    excerpt: "What I'm reading (and have read)."
+    url: "/books/"
+    btn_label: "My Library"
     btn_class: "btn--primary"
+
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"

@@ -6,10 +6,11 @@ main:
     url: /blog/
   - title: "Classes"
     url: /class-notes/
+  - title: "Books"
+    url: /books/
   - title: "About"
     url: /about/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
 
 # Sidebars
 
