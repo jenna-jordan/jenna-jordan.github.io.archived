@@ -17,6 +17,7 @@ tags:
 This class was a basic introduction to the themes and concepts we will be learning throughout the semester. It also introduced some key people we should know who will crop up in the literature quite often.
 
 ## Themes (and weekly topics)
+
 - Who uses information?
   - W3: Users & information needs
   - W4: Research methods & evaluations
@@ -29,12 +30,13 @@ This class was a basic introduction to the themes and concepts we will be learni
   - W5: Preservation
   - W7: Interfaces, searches, & discovery
 
-(Weeks 1 and 10 are synthesis weeks... introducing and wrapping up the material)
+(Weeks 1 and 10 are synthesis weeks... for introducing and wrapping up the material)
 
-Remember, the human element (ethics!) is key…
->"Information never lives alone… there's no such thing as raw data.”
+Remember, the human element (ethics!) is key.
+> "Information never lives alone… there's no such thing as raw data.”
 
 ## Defining Information
+
 - Here's one definition of information: any type of knowledge that can be exchanged...
 	- ...and in that exchange, it is represented by data...
 	- data = strings of bits with a description of how to interpret the strings of bits as numbers…
@@ -48,35 +50,40 @@ Remember, the human element (ethics!) is key…
 In other words, _we_ define information, by the work that we do.
 
 ### Information Contexts
-  - information environments can be as broad or narrow as you want… from the traditional triad of libraries, museums, & archives… to the internet, personal information management, & even shopping
-  - all have different ways of managing the information
+
+  - Information environments can be as broad or narrow as you want… from the traditional triad of libraries, museums, & archives… to the internet, personal information management, & even shopping
+  - They all have different ways of managing the information
 
 ### Changes to Information Science
-  - approaches to organizing information have evolved over time
-  - the digital revolution has prompted us to question established practices & the scope of our responsibility
+
+  - Approaches to organizing information have evolved over time
+  - The digital revolution has prompted us to question established practices & the scope of our responsibility
   	- What is a document? What is a collection? What are best practices for org/accessing info resources?
-  	- ^ How have these changed?
+  	- and... How have these changed?
 
 ## Important People
-- *Shannon & Weaver*: created a model for the mathematical theory of communication (with a focus on transmission)
+
+If you're going to work with literature from the field library science (as one does when one pursues an MSLIS), then these are some names you absolutely have to recognize. They will be cited/referenced again and again.
+
+- Claude *Shannon* & Warren *Weaver*: created a model for the mathematical theory of communication (with a focus on transmission)
 - Paul *Otlet*: created the Universal Decimal Classification; inventor of the Mundaneum (an internet precursor)
-- *Bush*: known for the Memex (another internet precursor)
+- Vannevar *Bush*: known for the Memex (another internet precursor)
 - Shiyali Ramamrita (S.R.) *Ranganathan*: created the 5 laws of library science
 	1. books are for use
 	2. ever reader his/her book
 	3. every book its reader
 	4. save the time of the reader
 	5. the library is a growing organism
-- *Bates*: “Info is the red thread in the social tapestry”
+- Marcia (M.J.) *Bates*: “Information is the red thread in the social tapestry”
   - 3 levels: individual, group, society
 	- Created the DIKW Pyramid:
   	- Data: raw material of info
     - Information: data organized & processed
     - Knowledge: internalized information  
     - Wisdom: knowledge distilled & integrated
-- *Buckland/Briet*: What is a document?
-	- materiality, intentionality, process, perception
+- Michael *Buckland* & Suzanne *Briet*: What is a document?
+	- key components: materiality, intentionality, process, perception
 	- context is key for deciding if something (i.e. an animal) is a document
 - Elfreda *Chatman*: a social constructionist with theories about information poverty, life in the round, and normative behavior
 	- focused on poor women and how they use information
-	- life in the round: people don’t look for what they don’t need (to know) (or want to know)
+	- "life in the round" refers to how people don’t look for information that they don’t need to know (or want to know)

@@ -32,9 +32,9 @@ feature_row:
   - image_path: /assets/images/home_splash_books.jpg
     alt: "library hidden door"
     title: "Codex Index"
-    excerpt: "What I'm reading (and have read)."
+    excerpt: "See what I'm reading (and have read)."
     url: "/books/"
-    btn_label: "My Library"
+    btn_label: "My Books"
     btn_class: "btn--primary"
 
 feature_row2:
