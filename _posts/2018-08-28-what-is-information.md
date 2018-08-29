@@ -18,16 +18,16 @@ This class was a basic introduction to the themes and concepts we will be learni
 
 ## Themes (and weekly topics)
 - Who uses information?
-  - W3: user/info needs
-  - W4: research methods/evaluations
+  - W3: Users & information needs
+  - W4: Research methods & evaluations
 - How is it organized?
-  - W6: metadata
-  - W8: subject analysis & languages
-  - W9: structures/standards
+  - W6: Metadata
+  - W8: Subject analysis & languages
+  - W9: Structures & standards
 - How to provide access to info?
-  - W2: collections
-  - W5: preservation
-  - W7: interfaces, searches, & discovery
+  - W2: Collections
+  - W5: Preservation
+  - W7: Interfaces, searches, & discovery
 
 (Weeks 1 and 10 are synthesis weeks... introducing and wrapping up the material)
 
