@@ -15,7 +15,7 @@ tags:
 #  title: # title of nav bar that shows in post
 #  nav: # references specific sidebar laid out in _data/navigation.yml
 ---
-This course is a basic introduction to formal logic.
+This course is a basic introduction to formal logic - specifically propositional calculus. Zeroth-order logic (propositional calculus) is first order logic without variables/quantifiers, and zeroth order languages are both complete and compact. Sometimes propositional logic can include constants, operations, and relations on non-Boolean values.
 
 ## Basic info for the class
 
