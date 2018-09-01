@@ -4,8 +4,6 @@ main:
     url: /
   - title: "Blog"
     url: /blog/
-  - title: "Classes"
-    url: /class-notes/
   - title: "Books"
     url: /books/
   - title: "About"

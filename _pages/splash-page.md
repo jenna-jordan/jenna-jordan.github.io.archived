@@ -6,14 +6,12 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.1"
   overlay_image: /assets/images/home_splash_malt.jpg
-  cta_label: "Download my resume"
+  cta_label: "See my resume"
   cta_url:   "https://drive.google.com/open?id=1cIGer2UH0QU3paGD46R5iXc6uK3p0jJc"
   # caption:   "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "to my world of Digital Library Science."
 intro:
-  - excerpt: 'Follow me as I learn about library science, coding for libraries, data & digital asset management, and more.  
-  <br/>
-  This blog hosts my class notes, random thoughts, and serves as an archive of my experiences as I complete my MSLIS at UIUC.'
+  - excerpt: "Follow me as I learn about library science, coding for libraries, data & digital asset management, and more. This blog serves as an archive of my experiences as I complete my MSLIS at UIUC. I write about what I'm learning in class, what I'm doing outside of class, books I'm reading, and random musings about the library world. I will also document my projects, so you can see what I've created and how I did it."
 feature_row:
   - image_path: /assets/images/home_splash_blog.jpg
     alt: "typewriter"
@@ -22,12 +20,12 @@ feature_row:
     url: "/blog/"
     btn_label: "Recent posts"
     btn_class: "btn--primary"
-  - image_path: /assets/images/home_splash_classes.jpg
+  - image_path: /assets/images/home_splash_projects.jpg
     alt: "notebook"
-    title: "Class Notes"
-    excerpt: "Follow along and see what I'm learning!"
-    url: "/class-notes/"
-    btn_label: "My Classes"
+    title: "Projects"
+    excerpt: "Under construction"
+    url: "/"
+    btn_label: "My Projects"
     btn_class: "btn--primary"
   - image_path: /assets/images/home_splash_books.jpg
     alt: "library hidden door"
