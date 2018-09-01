@@ -1,6 +1,6 @@
 ---
 title: Introduction to IS452 - Foundations of Information Processing
-published: True # True / False
+published: False # True / False
 
 categories:
   - IS452

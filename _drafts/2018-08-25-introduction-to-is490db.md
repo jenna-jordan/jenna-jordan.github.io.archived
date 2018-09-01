@@ -1,6 +1,6 @@
 ---
 title: Introduction to IS490DB - Introduction to Databases
-published: True # True / False
+published: False # True / False
 
 categories:
   - IS490DB

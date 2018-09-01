@@ -1,6 +1,6 @@
 ---
 title: Validity & Soundness
-published: True # True / False
+published: False # True / False
 
 categories:
   - PHIL103

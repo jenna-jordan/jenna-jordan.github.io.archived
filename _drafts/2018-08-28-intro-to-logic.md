@@ -1,6 +1,6 @@
 ---
 title: Introduction to Logic
-published: True # True / False
+published: False # True / False
 
 categories:
   - PHIL103

@@ -1,6 +1,6 @@
 ---
 title: What is Data? Information? Knowledge?
-published: True # True / False
+published: False # True / False
 
 categories:
   - IS501

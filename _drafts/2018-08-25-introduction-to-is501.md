@@ -1,6 +1,6 @@
 ---
 title: Introduction to IS501 - Information Organization & Access
-published: True # True / False
+published: False # True / False
 
 categories:
   - IS501

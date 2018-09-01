@@ -1,6 +1,6 @@
 ---
 title: Introduction to PHIL103 - Logic & Reasoning
-published: True # True / False
+published: False # True / False
 
 categories:
   - PHIL103
