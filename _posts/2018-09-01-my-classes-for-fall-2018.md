@@ -13,7 +13,7 @@ tags:
     - IS452
     - IS490DB
 ---
-It's my first semester at UIUC! So far it's going pretty well, and I'm excited about all the new things I'm going to learn. It's been three years since I've been in a university environment, and I really like that feeling of knowing that every day you are going to learn something new, and that there are people all around you who just want to help you learn and advance.
+It's my first semester at UIUC! So far it's going pretty well, and I'm excited about all the new things I'm going to learn. It's been three years since I've been in a university environment, and I really like that feeling of knowing that every day you are going to learn something new, and that there are people all around you who just want to help you learn and advance. 
 
 Also, this city freaking loves board games. There's the iSchool board game group, the multiple board game Meetups, the board game design group/competition, board game conventions... just all the board games. I just hope I'll have enough time to indulge in all the board gaming while still committing enough time for my classes.
 
@@ -23,7 +23,7 @@ Speaking of classes, I'm starting my master's with three fundamental courses tha
 - IS452: Foundations of Information Processing
 - IS490DB: Introduction to Databases
 
-I'm also auditing a philosophy course, just for fun... but also because I think it could come in handy.
+I'm also auditing a philosophy course, just for fun... but also because I think it could come in handy. 
 
 - PHIL103: Logic & Reasoning
 
@@ -47,11 +47,19 @@ IS501 is a basic intro to library & information science class at UIUC, and one o
 
 ### Central Themes
 
-1. Who uses information, how they use it, and what constraints shape their use of information
+1. *Who uses information*, how they use it, and what constraints shape their use of information. 
+  - Week 3: Users & information needs
+  - Week 4: Research methods & evaluations
 
-2. How recorded knowledge can be organized and structured 
+2. *How recorded knowledge can be organized* and structured. 
+  - Week 6: Metadata
+  - Week 8: Subject analysis & languages
+  - Week 9: Structures & standards
 
-3. Ways of providing access to the world's knowledge
+3. Ways of *providing access* to the world's knowledge
+  - Week 2: Collections
+  - Week 5: Preservation
+  - Week 7: Interfaces, searches, & discovery
 
 ### Learning Objectives
 
