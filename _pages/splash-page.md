@@ -22,10 +22,10 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/home_splash_projects.jpg
     alt: "notebook"
-    title: "Projects"
+    title: "My Projects"
     excerpt: "Under construction"
     url: "/"
-    btn_label: "My Projects"
+    btn_label: "Portfolio"
     btn_class: "btn--primary"
   - image_path: /assets/images/home_splash_books.jpg
     alt: "library hidden door"
