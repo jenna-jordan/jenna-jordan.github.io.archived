@@ -2,6 +2,9 @@
 title: My Classes for Fall 2018
 published: true
 toc: true
+header:
+    image: assets/images/header_fall2018classes.jpg
+
 categories:
     - MSLIS
 tags:
@@ -13,7 +16,7 @@ tags:
     - IS452
     - IS490DB
 ---
-It's my first semester at UIUC! So far it's going pretty well, and I'm excited about all the new things I'm going to learn. It's been three years since I've been in a university environment, and I really like that feeling of knowing that every day you are going to learn something new, and that there are people all around you who just want to help you learn and advance. 
+It's my first semester at UIUC! So far it's going pretty well, and I'm excited about all the new things I'm going to learn. It's been three years since I've been in a university environment, and I really like that feeling of knowing that every day you are going to learn something new, and that there are people all around you who just want to help you learn and advance.
 
 Also, this city freaking loves board games. There's the iSchool board game group, the multiple board game Meetups, the board game design group/competition, board game conventions... just all the board games. I just hope I'll have enough time to indulge in all the board gaming while still committing enough time for my classes.
 
@@ -23,7 +26,7 @@ Speaking of classes, I'm starting my master's with three fundamental courses tha
 - IS452: Foundations of Information Processing
 - IS490DB: Introduction to Databases
 
-I'm also auditing a philosophy course, just for fun... but also because I think it could come in handy. 
+I'm also auditing a philosophy course, just for fun... but also because I think it could come in handy.
 
 - PHIL103: Logic & Reasoning
 
@@ -47,11 +50,11 @@ IS501 is a basic intro to library & information science class at UIUC, and one o
 
 ### Central Themes
 
-1. *Who uses information*, how they use it, and what constraints shape their use of information. 
+1. *Who uses information*, how they use it, and what constraints shape their use of information.
   - Week 3: Users & information needs
   - Week 4: Research methods & evaluations
 
-2. *How recorded knowledge can be organized* and structured. 
+2. *How recorded knowledge can be organized* and structured.
   - Week 6: Metadata
   - Week 8: Subject analysis & languages
   - Week 9: Structures & standards
@@ -69,7 +72,7 @@ IS501 is a basic intro to library & information science class at UIUC, and one o
 
 3. To advance a common set of ideas that help to define the profession's orientation toward problems of information organization and access.
 
-### My Initial Impression & Thoughts
+### My Initial Impression
 
 This class seems to be focused more on the information science side of LIS (whereas 502 will focus on the library science side of LIS), and thus will be pretty in line with my interests. I think it will provide a good theoretical and philosophical foundation to the more technical information science classes I will be taking, and may also dive into the history of information organization - which would be very interesting to me!
 
@@ -102,7 +105,7 @@ IS452 introduces students to programming with python, and focuses on the skills 
 
 3. To be able to design, develop and test a moderately complex computer program to manage full text, bibliographic records or multimedia
 
-### Textbooks & Resources
+### Textbooks
 
 Primary Textbook
 :    "Python Programming: an introduction to computer science" (3rd Ed), by John Zelle
@@ -120,7 +123,7 @@ Python Cheatsheet
 
 [Cheatsheet](#https://github.com/elliewix/IS-452-Fall2018/blob/master/IS452-CheatSheet.md){: .btn .btn--primary}
 
-### My Initial Impression & Thoughts
+### My Initial Impression
 
 This class seems like it will be a good introduction to Python... hopefully this time it will stick! I have previously taken an intro to python class at a local community college, but I didn't find it to be super engaging. I need challenges and projects that I am personally invested in, so my brain gets hooked into trying to make the code work.
 
@@ -156,7 +159,7 @@ This course focuses on good database design and covers:
 5. Write working queries in the structure query language (sql)
 Understand general concepts involved in database operation
 
-### Textbooks & Resources
+### Textbooks
 
 <br>
 **"Fundamentals of Database Systems"** (7th Ed), by Elmasri & Navathe
@@ -164,7 +167,7 @@ Understand general concepts involved in database operation
 
 [Publisher's Site](#https://www.pearson.com/us/higher-education/program/Elmasri-Fundamentals-of-Database-Systems-7th-Edition/PGM189052.html){: .btn .btn--primary}
 
-### My Initial Impression & Thoughts
+### My Initial Impression
 
 This class is a little bit intimidating... I'm worried about how much technical skill it assumes I will be starting with and how fast the course will progress. I'm also really interested in learning how to design databases, and I know that it will provide me with important technical skills going forward. I just hope the process of acquiring those skills isn't too painful!
 
@@ -200,7 +203,7 @@ Sidenote: Sometimes propositional logic can include constants, operations, and r
  * Inductive Strength
  * Heuristics & Biases
 
-### Textbooks & Resources
+### Textbooks
 <br>
 **"Modern Logic"** by Graeme Forbes
 {: .small}
@@ -213,7 +216,7 @@ Sidenote: Sometimes propositional logic can include constants, operations, and r
 [HTML book](#http://courses.umass.edu/phil110-gmh/MAIN/IHome-5.htm){: .btn .btn--primary}
 
 
-### My Initial Impression & Thoughts
+### My Initial Impression
 
 This class seems like a pretty basic intro to logic, and should be a lot of stuff that I've already seen before in less formal settings. Since I'm auditing the class, I'm really just taking this for my own entertainment/edification. Based on my initial impressions from the first class, there are going to be a lot of students taking this class so they don't have to take a (more difficult) math class, and that may push down the level of material the professor will be able to cover. Also coming to class olfactibly high on weed... that could also push the level of the class down 🙄. Oh, undergrads...
 

@@ -5,10 +5,9 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/home_splash_malt.jpg
+  overlay_image: /assets/images/home_splash_main.jpg
   cta_label: "See my resume"
-  cta_url:   "https://drive.google.com/open?id=1cIGer2UH0QU3paGD46R5iXc6uK3p0jJc"
-  # caption:   "Photo credit: [**Unsplash**](https://unsplash.com)"
+  cta_url:   "https://drive.google.com/open?id=1RFnvhBmpYCDFC7CzTK3wxu33aKd6K6p-"
 excerpt: "to my world of Digital Library Science."
 intro:
   - excerpt: "Follow me as I learn about library science, coding for libraries, data & digital asset management, and more. This blog serves as an archive of my experiences as I complete my MSLIS at UIUC. I write about what I'm learning in class, what I'm doing outside of class, books I'm reading, and random musings about the library world. I will also document my projects, so you can see what I've created and how I did it."
