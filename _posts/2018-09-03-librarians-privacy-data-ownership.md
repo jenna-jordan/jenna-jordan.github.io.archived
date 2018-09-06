@@ -11,7 +11,7 @@ tags:
     - Data Ownership
 ---
 
-On Friday, I attended a talk by Dr. Jingrui He about a machine learning solution her team found to the issue of data heterogeneity. 
+On Friday, I attended a talk at the iSchool by Dr. Jingrui He about a machine learning solution her team found to the issue of data heterogeneity. 
 
 [Dr. Jingrui He's faculty homepage](#http://faculty.engineering.asu.edu/jingruihe/){: .btn .btn--inverse}
 
@@ -70,4 +70,44 @@ Keeping this key role of librarians in mind, let's move on to the second part of
 
 Let's circle back to the initial thought that inspired this article. How do you get access to all of this heterogeneous data  in order to analyze it?
 
-### Corporate Data
+### Corporate Ownership of Data
+
+In the current system, corporations own most of the data about you. Have you ever heard the saying, "If you're not paying for the product, *you're the product*"? Think about how many services you use today that are free: Facebook, Twitter, and pretty much any social network... the whole suite of Google products (search, email, calendar, drive, youtube, etc)... most online services are offered to users free of charge. Think about all of those free apps on your phone. 
+
+> "If you are not paying for it, you're not the customer; you're the product being sold."
+<cite>Andrew Lewis, Meta Filter</cite>
+
+Now think, out of all of those services, how many times did you actually read the Terms & Services before checking "agree"? Do you know what exactly you are agreeing to?
+
+When you use these products, you are creating data for them. They can use this data that you created or entered (name, birthday, etc) to then target you with advertising.
+
+[How Google and Facebook Have Taken Over the Digital Ad Industry](#http://fortune.com/2017/01/04/google-facebook-ad-industry/){: .btn .btn--inverse}
+
+But not only can they use the data that you created on their product for themselves, but they can then also sell that data to other companies. SO who owns the data? You may have created it, but they own it - and they reap the profits.
+
+Now you may think, so what? I get to use these products for free, and I can just ignore the advertising if I want to (or use an adblocker). Why does it matter that they get the data? It's not hurting anybody, and companies need to turn a profit in order to create and keep jobs. Well...
+
+### Automation, AI, & Data
+
+The whole world is currently experiencing an automation revolution. Manufacturing jobs aren't disappearing because they are all being shipped overseas or being stolen by immigrants - they're going to the machines. 
+
+> From 2000 to 2010 alone, 5.6 million jobs disappeared. Interestingly, though, only 13 percent of those jobs were lost due to international trade. The vast remainder, 85 percent of job losses, stemmed from “productivity growth” — another way of saying machines replacing human workers.
+<cite>[Industrial robots will replace manufacturing jobs - and that's a good thing](https://techcrunch.com/2016/10/09/industrial-robots-will-replace-manufacturing-jobs-and-thats-a-good-thing/)</cite>
+
+The next major industry to be disrupted will likely be transportation - automated cars & trucks are just around the corner. This may be a scary thought - jobs disappearing! - but it shouldn't be. When robots and AI systems can take over the boring, monotonous, or dangerous jobs, it frees people up to do more creative things - jobs robots can't perform (yet!) - and more effectively utilize our collective brainpower. 
+
+[Automation Could Kill 73 Million US Jobs by 2030](#https://www.ttnews.com/articles/automation-could-kill-73-million-us-jobs-2030){: .btn .btn--inverse}
+
+The painful part will be the transition. People will need to be re-trained for jobs in different sectors, which will require a massive rethinking of adult education. There will be long stretches of time during which people are unemployed. Their new jobs may not pay as well, or as steadily. They may need to rely on savings while re-training for their new jobs - and most Americans don't have enough savings to lean on for more than a month.
+
+[The Dangerous State of Americans’ Savings](#https://www.nytimes.com/2015/01/31/your-money/the-dangerous-state-of-americans-savings.html){: .btn .btn--inverse}
+
+Automation will bring great things for the future, but it's going to get worse before it gets better. And what technology does automation rely on? AI and machine learning. And what does AI and machine learning rely on? Data. Also lots of talented programmers, but their algorithms wouldn't have anything to run on without data. And where does that data come from? Us. Our data, owned by the corporations, isn't just good for targeted advertising - it's also essential for developing AI.
+
+[Google sells the future, powered by your personal data](#https://www.nbcnews.com/tech/tech-news/google-sells-future-powered-your-personal-data-n870501){: .btn .btn--inverse}
+
+Major corporations are using the data we produce using their (free & paid) products to develop the technology that will massively disrupt labor in a way we haven't seen since the industrial revolution. And again, this isn't necessarily a bad thing! But it is dangerous, especially when an outsized portion of the profits stand to go to the (already stupid rich) corporations, and not to the huge masses of data-producing people who made AI possible (not to mention the programmers who created the AI and ML systems, but have no ownership of the end product).
+
+### A solution: Personal Ownership of Data
+
+
