@@ -2,6 +2,8 @@
 title: Librarians, Privacy, & Data Ownership
 published: false
 toc: true
+header:
+    image: assets/images/header_dataprivacy.jpg
 categories:
     - Essays
 tags:
@@ -11,7 +13,7 @@ tags:
     - Data Ownership
 ---
 
-Last Friday, I attended a talk at the iSchool by Dr. Jingrui He about a machine learning solution her team found addressing the issue of data heterogeneity. 
+Last Friday, I attended a talk at the iSchool by Dr. Jingrui He about a machine learning solution her team found addressing the issue of data heterogeneity.
 
 [Dr. Jingrui He's faculty homepage](#http://faculty.engineering.asu.edu/jingruihe/){: .btn .btn--inverse}
 
@@ -21,15 +23,15 @@ As I have only the basic understanding of machine learning, many of the technica
 
 Think about the difference between the biological/chemical terms "homogeneous" and "heterogeneous." "Homo" means the same, and "homogeneous" means having the same (or uniform) makeup (or composition). "Hetero" is the opposite, and means different - so "heterogeneous" means having a non-uniform composition. Heterogeneity is simply referring to something having the quality or characteristic of being diverse. So data heterogeneity, also known as data variety, refers to data that come from many different sources and exists in many different forms. Data Variety is one of the three core "V"s of Big Data.
 
-[What is big data?](#https://datasciencedegree.wisconsin.edu/data-science/what-is-big-data/){: .btn .btn--inverse} 
+[What is big data?](#https://datasciencedegree.wisconsin.edu/data-science/what-is-big-data/){: .btn .btn--inverse}
 
-Let's look at an example: When analyzing someone's health, their medical record is probably a good place to start. But you may also want to look at their activity on health-centered social networking sites, their search history on health-centered websites, and their purchase history at pharmacies. This would give you a much fuller picture of their health. But it also raises an important question - one that was not discussed during her talk. 
+Let's look at an example: When analyzing someone's health, their medical record is probably a good place to start. But you may also want to look at their activity on health-centered social networking sites, their search history on health-centered websites, and their purchase history at pharmacies. This would give you a much fuller picture of their health. But it also raises an important question - one that was not discussed during her talk.
 
 How do you acquire all of this data from disparate and (supposedly) protected sources in order to analyze it?
 
 ### The Issue of Data Privacy
 
-Right now, there are a number of major new stories in the public consciousness that concern data privacy. Most notably at the moment, the scandal involving Facebook and Cambridge Analytica... but this issue has been discussed every since Edward Snowden leaked classified information about the NSA's surveillance policies in 2013. 
+Right now, there are a number of major new stories in the public consciousness that concern data privacy. Most notably at the moment, the scandal involving Facebook and Cambridge Analytica... but this issue has been discussed every since Edward Snowden leaked classified information about the NSA's surveillance policies in 2013.
 
 [Facebook data privacy scandal: A cheat sheet](#https://www.techrepublic.com/article/facebook-data-privacy-scandal-a-cheat-sheet/){: .btn .btn--inverse}
 
@@ -41,7 +43,7 @@ This is an issue that spans both the public and private realms, with abuses by g
 
 ### Librarians are your data privacy heroes
 
-Who is the one group of people who will fight tooth and nail to both provide you with all of the information and knowledge you may want while simultaneously defending your personal information from anybody who comes knocking? Librarians. 
+Who is the one group of people who will fight tooth and nail to both provide you with all of the information and knowledge you may want while simultaneously defending your personal information from anybody who comes knocking? Librarians.
 
 > “We protect each library user's right to privacy and confidentiality with respect to information sought or received and resources consulted, borrowed, acquired or transmitted.”  
 <cite>ALA (American Library Association) Code of Ethics</cite>{: .small}
@@ -52,9 +54,9 @@ Librarians may technically be (local) government employees, but if the police or
 
 [You are not what you read](#https://www.theguardian.com/us-news/2016/jan/13/us-library-records-purged-data-privacy){: .btn .btn--inverse}
 
-But what does this have to do with the data privacy scandals of the past few years? It means that librarians have an important role to play in this age of big data. 
+But what does this have to do with the data privacy scandals of the past few years? It means that librarians have an important role to play in this age of big data.
 
-Libraries are community centers, and beyond that they are a source of continuous, life-long learning. Information literacy is becoming as important for adults as reading literacy is for children. 
+Libraries are community centers, and beyond that they are a source of continuous, life-long learning. Information literacy is becoming as important for adults as reading literacy is for children.
 
 > "Research has shown that people need education in developing skills that will help them use the Internet effectively. Libraries can serve as primary training providers to help meet this need."  
 <cite>ALA (American Library Association)</cite>{: .small}
@@ -72,7 +74,7 @@ Let's circle back to the initial thought that inspired this article. How do you 
 
 ### Corporate Ownership of Data
 
-In the current system, corporations own most of the data about you. Have you ever heard the saying, "If you're not paying for the product, *you're the product*"? Think about how many services you use today that are free: Facebook, Twitter, and pretty much any social network... the whole suite of Google products (search, email, calendar, drive, youtube, etc)... most online services are offered to users free of charge. Think about all of those free apps on your phone. 
+In the current system, corporations own most of the data about you. Have you ever heard the saying, "If you're not paying for the product, *you're the product*"? Think about how many services you use today that are free: Facebook, Twitter, and pretty much any social network... the whole suite of Google products (search, email, calendar, drive, youtube, etc)... most online services are offered to users free of charge. Think about all of those free apps on your phone.
 
 > "If you are not paying for it, you're not the customer; you're the product being sold."
 <cite>Andrew Lewis, Meta Filter</cite>
@@ -89,12 +91,12 @@ Now you may think, so what? I get to use these products for free, and I can just
 
 ### Automation, AI, & Data
 
-The whole world is currently experiencing an automation revolution. Manufacturing jobs aren't disappearing because they are all being shipped overseas or being stolen by immigrants - they're going to the machines. 
+The whole world is currently experiencing an automation revolution. Manufacturing jobs aren't disappearing because they are all being shipped overseas or being stolen by immigrants - they're going to the machines.
 
 > From 2000 to 2010 alone, 5.6 million jobs disappeared. Interestingly, though, only 13 percent of those jobs were lost due to international trade. The vast remainder, 85 percent of job losses, stemmed from “productivity growth” — another way of saying machines replacing human workers.
 <cite>[Industrial robots will replace manufacturing jobs - and that's a good thing](https://techcrunch.com/2016/10/09/industrial-robots-will-replace-manufacturing-jobs-and-thats-a-good-thing/)</cite>
 
-The next major industry to be disrupted will likely be transportation - automated cars & trucks are just around the corner. This may be a scary thought - jobs disappearing! - but it shouldn't be. When robots and AI systems can take over the boring, monotonous, or dangerous jobs, it frees people up to do more creative things - jobs robots can't perform (yet!) - and more effectively utilize our collective brainpower. 
+The next major industry to be disrupted will likely be transportation - automated cars & trucks are just around the corner. This may be a scary thought - jobs disappearing! - but it shouldn't be. When robots and AI systems can take over the boring, monotonous, or dangerous jobs, it frees people up to do more creative things - jobs robots can't perform (yet!) - and more effectively utilize our collective brainpower.
 
 [Automation Could Kill 73 Million US Jobs by 2030](#https://www.ttnews.com/articles/automation-could-kill-73-million-us-jobs-2030){: .btn .btn--inverse}
 
@@ -109,5 +111,3 @@ Automation will bring great things for the future, but it's going to get worse b
 Major corporations are using the data we produce using their (free & paid) products to develop the technology that will massively disrupt labor in a way we haven't seen since the industrial revolution. And again, this isn't necessarily a bad thing! But it is dangerous, especially when an outsized portion of the profits stand to go to the (already stupid rich) corporations, and not to the huge masses of data-producing people who made AI possible (not to mention the programmers who created the AI and ML systems, but have no ownership of the end product).
 
 ### A solution: Personal Ownership of Data
-
-
