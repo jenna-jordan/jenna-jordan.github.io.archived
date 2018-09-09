@@ -41,7 +41,7 @@ Right now, there are a number of major new stories in the public consciousness t
 
 This is an issue that spans both the public and private realms, with abuses by governments and corporations alike. There are no heroes in this story - or are there?
 
-### Librarians are your data privacy heroes
+### Librarians are your Data Privacy Heroes
 
 Who is the one group of people who will fight tooth and nail to both provide you with all of the information and knowledge you may want while simultaneously defending your personal information from anybody who comes knocking? Librarians.
 
@@ -110,4 +110,4 @@ Automation will bring great things for the future, but it's going to get worse b
 
 Major corporations are using the data we produce using their (free & paid) products to develop the technology that will massively disrupt labor in a way we haven't seen since the industrial revolution. And again, this isn't necessarily a bad thing! But it is dangerous, especially when an outsized portion of the profits stand to go to the (already stupid rich) corporations, and not to the huge masses of data-producing people who made AI possible (not to mention the programmers who created the AI and ML systems, but have no ownership of the end product).
 
-### A solution: Personal Ownership of Data
+### A Solution: Personal Ownership of Data

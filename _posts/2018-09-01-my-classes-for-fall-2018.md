@@ -5,7 +5,7 @@ toc: true
 header:
     image: assets/images/header_fall2018classes.jpg
 categories:
-    - MSLIS
+    - Classes
 tags:
     - MSLIS
     - Fall 2018
@@ -14,6 +14,7 @@ tags:
     - IS501
     - IS452
     - IS490DB
+    - PHIL103
 ---
 It's my first semester at UIUC! So far it's going pretty well, and I'm excited about all the new things I'm going to learn. It's been three years since I've been in a university environment, and I really like that feeling of knowing that every day you are going to learn something new, and that there are people all around you who just want to help you learn and advance.
 
@@ -176,8 +177,8 @@ I'm also... apprehensive... about the textbook. It appears to be the only textbo
 
 ## PHIL103: Logic & Reasoning
 
-This course is a basic introduction to formal logic - specifically propositional calculus. Zeroth-order logic (propositional calculus) is first order logic without variables/quantifiers, and zeroth order languages are both complete and compact.  
-Sidenote: Sometimes propositional logic can include constants, operations, and relations on non-Boolean values.
+This course is a basic introduction to formal logic - specifically propositional calculus. Also called zeroth-order logic, propositional calculus is first order logic without variables/quantifiers, and acts as the foundation for first-order logic and higher-order logics ([according to Wikipedia](https://en.wikipedia.org/wiki/Propositional_calculus)).
+Zeroth order languages are both complete and compact. Sometimes zeroth order logic can include constants, operations, and relations on non-Boolean values ([according to Wikipedia](https://en.wikipedia.org/wiki/Zeroth-order_logic)).
 
 ### Course Description
 
