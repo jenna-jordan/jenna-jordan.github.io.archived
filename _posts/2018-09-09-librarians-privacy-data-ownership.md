@@ -13,7 +13,7 @@ tags:
     - Data Ownership
 ---
 
-Last Friday, I attended a talk at the iSchool by Dr. Jingrui He about a machine learning solution her team found addressing the issue of data heterogeneity.
+Last Friday (Aug 31), I attended a talk at the iSchool by Dr. Jingrui He about a machine learning solution her team crafted to address the issue of data heterogeneity.
 
 [Dr. Jingrui He's faculty homepage](#http://faculty.engineering.asu.edu/jingruihe/){: .btn .btn--inverse}
 

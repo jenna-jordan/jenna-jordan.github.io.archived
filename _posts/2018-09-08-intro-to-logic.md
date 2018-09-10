@@ -276,3 +276,5 @@ The connectives/operators of LSL are:
 ## In Conclusion
 
 There we go! The basics of zeroth order propositional logic. The most important concept here is validity, and sentential form is just a tool we use to better capture an arguments validity (or invalidity).
+
+Credits: The information in this post was pulled from the first two weeks of my PHIL103 class at UIUC.
