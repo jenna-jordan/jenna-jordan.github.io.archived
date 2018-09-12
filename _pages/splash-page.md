@@ -28,7 +28,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/home_splash_books.jpg
     alt: "library hidden door"
-    title: "Codex Index"
+    title: "The Codex Index"
     excerpt: "See what I'm reading (and have read)."
     url: "/books/"
     btn_label: "My Books"
