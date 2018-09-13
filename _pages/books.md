@@ -1,7 +1,7 @@
 ---
 permalink: /books/
 title: "The Codex Index"
-last_modified_at: 2018-09-12
+last_modified_at: 2018-09-13
 toc: true
 toc_sticky: true
 comments: true
@@ -27,7 +27,10 @@ Note: the "What I've read" and "What I want to read" sections are still a work i
 "Sapiens: A Brief History of Humankind" by Yuval Noah Harari
 :    I really loved this book. It presents a big picture history of the human race, from our origin of a species to our current state of technological progress. It looks at how we have always shaped our environment (by frequently genocidal means), how we learned to organize and store information, the fundamental unifying forces of human history... addressing most of the "big questions" in way that was both philosophically rigorous and interesting - because he told it as a story. This is one of the fundamental points that Harari makes at the beginning of the book: the reason that humans are the dominant species is because we can cooperate in large numbers, and the glue that allows us to cooperate on a massive scale is our capacity for storytelling.
 
-"Freakonomics & Superfreakonomics" by Steven D. Levitt & Stephen J. Dubner
+"Utopia for Realists: The Case for a Universal Basic Income, Open Borders, and a 15-hour Workweek" by Rutger Bregman
+:    This book is not quite a manifesto, not quite a philosophical work, not quite an economic study, not quite an analysis of society... but a little bit of all of those things rolled into one. Bregman is one of the most well-known and active proponents of Universal Basic Income (UBI), and in this book he lays out his case for why UBI is necessary, why it should appeal to both liberals and conservatives, and it's (relatively unknown) history in the US and Europe. While most of the book is focused on UBI, Bregman also lays out some other goals for the near future (open borders, a 15-hour workweek), and why he believes they are economically viable, morally necessary, and achievable within the next few decades. Bregman does a fantastic job throughout the book of providing historical context for all of his topics, and a roadmap for how we can actually achieve these goals.
+
+"Freakonomics" & "Superfreakonomics" by Steven D. Levitt & Stephen J. Dubner
 :    Written by an economist (Levitt) and a journalist (Dubner), these books are a series of interconnected essays about how behavioral economics and statistics are ingrained in the deepest parts of our personal, social, and political lives. They explore a wide variety of topics with their compelling combined skills of economic/statistical expertise and narrative storytelling. Listening to these books, I felt like I was constantly learning something new - and everything was all the more fascinating for being embedded in their chosen expert's personal story.
 
 "Outliers: The Story of Success" by Malcolm Gladwell
