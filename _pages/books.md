@@ -53,6 +53,9 @@ Note: the "What I've read" and "What I want to read" sections are still a work i
 "21 Lessons for the 21st Century" by Yuval Noah Harari
 :    By the author of "Sapiens" and "Homo Deus," this book is a set of 21 essays about the most important issues facing humanity today. One of these essays is about how science fiction is today's most important artistic genre! After Sapiens and Homo Deus, I will read anything this man writes.
 
+"Accessory to War: The Unspoken Alliance Between Astrophysics and the Military" by Neil deGrasse Tyson & Avis Lang
+:    The most popular (and vocal) astrophysicist today, Neil deGrasse Tyson, takes on the centuries-old relationship between science (especially astronomy) and the military - a "curiously complicit" relationship as the military's conquests are only possible due to discoveries made by (generally) progressive/peace-loving scientists. Tyson & Lang cover everything from colonial times (navigating the high seas!) to the present day (spy satellites!). This book merges a lot of my interests (astronomy, politics, history, military, ethics), so it is definitely a must read!
+
 ## Suggestions?
 
 Leave a comment below!
