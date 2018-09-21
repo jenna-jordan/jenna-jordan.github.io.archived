@@ -4,8 +4,6 @@ published: true
 toc: true
 header:
     image: assets/images/header_fall2018classes.jpg
-categories:
-    - Classes
 tags:
     - MSLIS
     - Fall 2018

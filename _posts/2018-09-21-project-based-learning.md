@@ -4,8 +4,6 @@ published: true
 toc: true
 header:
     image: assets/images/header_project.jpg
-categories:
-    - Essays
 tags:
     - Random Thoughts
     - Learning

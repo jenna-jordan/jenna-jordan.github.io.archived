@@ -3,8 +3,6 @@ title: The Feynman Technique for Learning
 published: true
 header:
     image: assets/images/header_feynman.jpg
-categories:
-    - Thoughts
 tags:
     - Random Thoughts
     - Learning

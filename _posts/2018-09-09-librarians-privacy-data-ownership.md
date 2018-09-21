@@ -4,8 +4,6 @@ published: false
 toc: true
 header:
     image: assets/images/header_dataprivacy.jpg
-categories:
-    - Essays
 tags:
     - Random Thoughts
     - Libraries

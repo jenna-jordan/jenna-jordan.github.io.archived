@@ -4,8 +4,6 @@ published: true
 toc: true
 header:
     image: assets/images/header_logicintro.jpg
-categories:
-  - Classes
 tags:
   - PHIL103
   - Philosophy

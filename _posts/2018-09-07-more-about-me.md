@@ -5,8 +5,6 @@ toc: true
 toc_sticky: true
 header:
     image: assets/images/header_moreaboutme.jpg
-categories:
-    - Personal
 tags:
     - About Me
     - Random Thoughts
