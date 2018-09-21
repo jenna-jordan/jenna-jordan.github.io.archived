@@ -1,6 +1,7 @@
 ---
 title: The Feynman Technique for Learning
 published: true
+permalink: /blog/feynman-technique-for-learning
 header:
     image: assets/images/header_feynman.jpg
 tags:

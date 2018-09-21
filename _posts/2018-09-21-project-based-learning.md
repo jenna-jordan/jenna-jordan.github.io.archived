@@ -1,6 +1,7 @@
 ---
 title: On the Value of Project-Based Learning (or, how I'm understanding databases)
 published: true
+permalink: /blog/project-based-learning
 toc: true
 header:
     image: assets/images/header_project.jpg

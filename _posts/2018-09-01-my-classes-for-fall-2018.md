@@ -1,6 +1,7 @@
 ---
 title: My Classes for Fall 2018
 published: true
+permalink: /blog/my-classes-for-fall-2018
 toc: true
 header:
     image: assets/images/header_fall2018classes.jpg

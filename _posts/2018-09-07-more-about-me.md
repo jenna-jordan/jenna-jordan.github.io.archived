@@ -1,6 +1,7 @@
 ---
 title: More About Me
 published: true
+permalink: /blog/more-about-me
 toc: true
 toc_sticky: true
 header:

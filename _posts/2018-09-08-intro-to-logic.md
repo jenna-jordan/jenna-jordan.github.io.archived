@@ -1,6 +1,7 @@
 ---
 title: Introduction to Logic
 published: true
+permalink: /blog/intro-to-logic
 toc: true
 header:
     image: assets/images/header_logicintro.jpg
