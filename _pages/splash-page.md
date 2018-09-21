@@ -14,7 +14,7 @@ intro:
 feature_row:
   - image_path: /assets/images/home_splash_blog.jpg
     alt: "typewriter"
-    title: "My Blog"
+    title: "My Thoughts"
     excerpt: "Read my latest content at the blog."
     url: "/blog/"
     btn_label: "Recent posts"
@@ -28,7 +28,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/home_splash_books.jpg
     alt: "library hidden door"
-    title: "The Codex Index"
+    title: "My Codex Index"
     excerpt: "See what I'm reading (and have read)."
     url: "/books/"
     btn_label: "My Books"
