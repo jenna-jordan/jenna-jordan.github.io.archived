@@ -13,4 +13,4 @@ A side benefit of this blog is that it is also helping me to learn some basics o
 
 ## More about me
 
-If you're curious about who I am, what I like, and what I've done, you can [read this post](_posts/2018-09-07-more-about-me.md).
+If you're curious about who I am, what I like, and what I've done, you can [read this post](/blog/more-about-me).
