@@ -2,7 +2,7 @@
 ### My personal blog
 
 ---
-Please bear in mind that this blog is a work in progress, and currently under (its initial) construction
+Please bear in mind that this blog is a work in progress, and some parts (i.e. Projects) are still under construction.
 ___
 
 Welcome! This is my personal blog, a place for me to write, learn, and reflect. 
