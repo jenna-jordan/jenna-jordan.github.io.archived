@@ -6,6 +6,7 @@ toc: true
 toc_sticky: true
 header:
     image: assets/images/header_moreaboutme.jpg
+    caption: "Photo taken by me, in March 2018, while hiking the gorgeous 'Path of the Gods' along Italy's Amalfi Coast."
 tags:
     - About Me
     - Random Thoughts
