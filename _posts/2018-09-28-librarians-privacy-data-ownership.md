@@ -1,6 +1,7 @@
 ---
 title: Librarians, Privacy, & Data Ownership
 published: true
+permalink: /blog/librarians-privacy-data-ownership
 toc: true
 header:
     image: assets/images/header_dataprivacy.jpg
