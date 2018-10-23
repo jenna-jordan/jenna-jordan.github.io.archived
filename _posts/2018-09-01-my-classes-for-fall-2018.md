@@ -109,18 +109,18 @@ IS452 introduces students to programming with python, and focuses on the skills 
 Primary Textbook
 :    "Python Programming: an introduction to computer science" (3rd Ed), by John Zelle
 
-[Publisher's Site](#https://fbeedle.com/our-books/23-python-programming-an-introduction-to-computer-science-3rd-ed-9781590282755.html){: .btn .btn--primary}
+[Publisher's Site](https://fbeedle.com/our-books/23-python-programming-an-introduction-to-computer-science-3rd-ed-9781590282755.html){: .btn .btn--primary}
 
 Secondary Textbook
 :    Python for Everybody, by Charles Severance
 
-[PY4E HTML book](#https://www.py4e.com/html3/){: .btn .btn--primary}
-[LibreTexts version](#https://eng.libretexts.org/Textbook_Maps/Computer_Science/Map%3A_Python_for_Everybody_(Severance)){: .btn .btn--primary}
+[PY4E HTML book](https://www.py4e.com/html3/){: .btn .btn--primary}
+[LibreTexts version](https://eng.libretexts.org/Textbook_Maps/Computer_Science/Map%3A_Python_for_Everybody_(Severance)){: .btn .btn--primary}
 
 Python Cheatsheet
 :    Living document hosted on the GitHub repo
 
-[Cheatsheet](#https://github.com/elliewix/IS-452-Fall2018/blob/master/IS452-CheatSheet.md){: .btn .btn--primary}
+[Cheatsheet](https://github.com/elliewix/IS-452-Fall2018/blob/master/IS452-CheatSheet.md){: .btn .btn--primary}
 
 ### My Initial Impression
 
@@ -164,7 +164,7 @@ Understand general concepts involved in database operation
 **"Fundamentals of Database Systems"** (7th Ed), by Elmasri & Navathe
 {: .small}
 
-[Publisher's Site](#https://www.pearson.com/us/higher-education/program/Elmasri-Fundamentals-of-Database-Systems-7th-Edition/PGM189052.html){: .btn .btn--primary}
+[Publisher's Site](https://www.pearson.com/us/higher-education/program/Elmasri-Fundamentals-of-Database-Systems-7th-Edition/PGM189052.html){: .btn .btn--primary}
 
 ### My Initial Impression
 
@@ -207,12 +207,12 @@ Zeroth order languages are both complete and compact. Sometimes zeroth order log
 **"Modern Logic"** by Graeme Forbes
 {: .small}
 
-[HTML book](#http://spot.colorado.edu/~forbesg/modlogtoc.html){: .btn .btn--primary}
+[HTML book](http://spot.colorado.edu/~forbesg/modlogtoc.html){: .btn .btn--primary}
 
 **"Introduction to Logic"** by Gary Hardegree
 {: .small}
 
-[HTML book](#http://courses.umass.edu/phil110-gmh/MAIN/IHome-5.htm){: .btn .btn--primary}
+[HTML book](http://courses.umass.edu/phil110-gmh/MAIN/IHome-5.htm){: .btn .btn--primary}
 
 
 ### My Initial Impression
