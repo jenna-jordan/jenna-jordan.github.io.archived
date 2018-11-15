@@ -247,6 +247,11 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+# Collections
+collections:
+  international-relations-database:
+    output: true
+    permalink: /:collection/:path/
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -278,3 +283,11 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _international-relations-database (project)
+  - scope:
+      path: ""
+      type: international-relations-database
+    values:
+      layout: single
+      author_profile: false
+      share: true

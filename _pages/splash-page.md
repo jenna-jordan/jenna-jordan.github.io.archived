@@ -22,13 +22,13 @@ feature_row:
   - image_path: /assets/images/home_splash_projects.jpg
     alt: "notebook"
     title: "My Projects"
-    excerpt: "Under construction"
-    url: "/"
+    excerpt: "Explore the projects I'm working on."
+    url: "/projects/"
     btn_label: "Portfolio"
     btn_class: "btn--primary"
   - image_path: /assets/images/home_splash_books.jpg
     alt: "library hidden door"
-    title: "My Codex Index"
+    title: "The Codex Index"
     excerpt: "See what I'm reading (and have read)."
     url: "/books/"
     btn_label: "My Books"
