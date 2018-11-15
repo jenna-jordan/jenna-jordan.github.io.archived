@@ -10,6 +10,6 @@ header:
 tags:
   - # Random Thoughts, Classes, About Me, FAQ, Lecture Notes, UNC-CH
   - # MSLIS, Fall 2018, IS501, IS452, IS490DB, PHIL103, 1st Semester,
-  - # Learning, Feynman Technique, Philosophy, Logic, Databases,
+  - # Learning, Feynman Technique, Philosophy, Logic, Databases, Python
   - # Libraries, Data Privacy, Data Ownership
 ---
