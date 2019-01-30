@@ -15,7 +15,7 @@ tags:
     - IS590PR
     - IS590TH
 ---
-It's my second semester at UIUC! I learned a lot last semester, and I'm ready to learn even more. I've also got to be prepared to be a whole lot busier... in addition to taking four courses this semester (four classes! 14 credit hours! That's a lot in a master's program!) I'm also working 20 hours a week as a Graduate Research Assistant (GRA) at the Cline Center. I think it's a good problem to have that I want to be taking all of my classes and I got my dream assistantship, so there's absolutely nothing I want to drop to make my load a bit easier this semester, but... boy have I been busy. I'm only starting week three and I don't know how I'm going to get everything done.
+It's my second semester at UIUC! I learned a lot last semester, and I'm ready to learn even more. I also have to be prepared to be a whole lot busier... in addition to taking four courses this semester (4! 14 total credit hours! ...That's a lot in a master's program!) I'm also working 20 hours a week as a Graduate Research Assistant (GRA) at the Cline Center. I think it's a good problem to have that I want to be taking all of my classes and I got my dream assistantship, so there's absolutely nothing I want to drop to make my life a bit easier this semester, but... boy have I been busy. I'm only starting week three and I don't know how I'm going to get everything done.
 
 Speaking of classes, this semester the four courses I'm taking are:
 
@@ -24,11 +24,11 @@ Speaking of classes, this semester the four courses I'm taking are:
 - IS590PR: Programming for Analytics and Data Processing
 - IS590TH: Theories of Information
 
-Time to introduce these courses and what they're all about!
+Time to introduce these classes and what they're all about!
 
 ## IS502: Libraries, Information & Society
 
-IS502 serves as a forum for critical discussions about issues in the profession of Library Science, and one of two required courses for the MSLIS degree (the other being IS501, which I took in the Fall). Like IS501, IS502 introduces LIS students to the many different jobs that information professionals can have, but focuses on the commonalities critical to the profession: ethics, social responsibility, intellectual freedom, literacy, etc. The class takes the general format of a lecture followed by a class discussion of the assigned readings.
+IS502 serves as a forum for critical discussions about issues in the profession of Library Science, and is one of two required courses for the MSLIS degree (the other being IS501, which I took in the Fall). Like IS501, IS502 introduces LIS students to the many different jobs that information professionals can have, but focuses on the commonalities critical to the profession: ethics, social responsibility, intellectual freedom, literacy, etc. The class takes the general format of a lecture followed by a class discussion of the assigned readings.
 
 ### Course Description
 
@@ -55,7 +55,7 @@ IS502 serves as a forum for critical discussions about issues in the profession 
 
 ## IS561: Information Modeling
 
-In order to best store information/data for future use, you need to understand how to best organize it. And to understand how to organize it, you need to know how to model it. This is a required course for the MSIM (Master's in Information Management) program and the CAS in Digital Libraries, so I knew that it would be a good idea for me to take this class because I'm most interested in the more technical/digital side of things. But unlike the programming or databases classes, this class focuses on teaching the philosophical/conceptual foundations of how information is modeled/organized in today's digital world.
+In order to best store information/data for future use, you need to understand how to best organize it. And to understand how to organize it, you need to know how to model it. This is a required course for the MSIM (Master's in Information Management) program and the CAS in Digital Libraries, so I knew that it would be a good idea for me to take this class because I'm most interested in the more technical/digital side of things. But unlike the programming or database classes (which focused on hard skills), this class focuses on teaching the philosophical/conceptual foundations of how information is modeled/organized in today's digital world, with the side-effect of teaching useful technologies like XML, RDF and OWL, UML diagrams, etc.
 
 ### Course Description
 
@@ -79,7 +79,7 @@ Teamwork and Communication Objectives
 
 ## IS590PR: Programming for Analytics and Data Processing
 
-IS590PR is the follow-up course to IS452 (which I took last semester), so it assumes that you have either a basic working knowledge of Python or experience with another programming language (as many of the MSIM students do). Whereas IS452 introduced all of the basic concepts of python like working with strings & integers/floats, for loops, lists, file reading & writing, functions, booleans & if/elif/else statements, dictionaries, and some extra stuff (working with csv, json, SQL, Xpath, regex)... IS590PR takes it a step further. You can see all of the stuff we'll be learning down below under Course Topics (copied from the syllabus), but the basic format seems to be: read background in the textbook, listen to lecture on a specific topic, and complete a data processing programming exercise using real-world data. This class is definitely going to be challenging for me, but I expect to learn a lot and gain confidence in my ability to use Python to process data.
+IS590PR is the follow-up course to IS452 (which I took last semester), so it assumes that you have either a basic working knowledge of Python or experience with another programming language (as many of the MSIM students do). Whereas IS452 introduced all of the basic concepts of Python like working with strings & integers/floats, for loops, lists, file reading & writing, functions, booleans & if/elif/else statements, dictionaries, and some extra stuff (working with csv, json, SQL, Xpath, regex)... IS590PR takes it a step further. You can see all of the stuff we'll be learning down below under Course Topics (copied from the syllabus), but the basic format seems to be: read background in the textbook, listen to lecture on a specific topic, and complete a data processing programming exercise using real-world data. This class is definitely going to be challenging for me, but I expect to learn a lot and gain confidence in my ability to use Python to process data.
 
 ### Course Description
 
