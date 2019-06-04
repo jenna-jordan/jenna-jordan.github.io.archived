@@ -1,16 +1,16 @@
 ---
-title: MSLIS Year 1: A Reflection
+title: MSLIS Year 1 - A Reflection
 published: true
 permalink: /blog/year-1-reflection
 toc: true
-toc_sticky: true 
+toc_sticky: true
 header:
-    image: assets/images/header_short-title.jpg
+    image: assets/images/header_reflection.jpg
     caption: # optional
 tags:
   - Classes
   - MSLIS
-  - Fall 2018 
+  - Fall 2018
   - IS501
   - IS452
   - IS490DB
@@ -20,7 +20,6 @@ tags:
   - IS590TH
   - Learning
 ---
-
 It's summer, and I have officially completed half of my Master's in Library & Information Science degree. This past semester has been extremely busy for me - not only was I taking more classes, but I was working 20 hours/week as a Graduate Research Assistant at the Cline Center on campus. And while that meant that I had essentially no free time (hence the utter lack of blog posts), there was nothing that I wanted to drop... so I can only blame myself. And next year looks to be at least as busy! But before I look ahead, I want to take some time to reflect on what I have learned and accomplished during my first year of library school.
 
 ## Degree Requirements
@@ -81,7 +80,7 @@ If you're interested in trying to run your own simulations using my code, look f
 
 ### Bonus: coming soon
 
-So the Correlates of War database project is a good showcase of "organizing information", and the Prisoner's Dilemma project is a good showcase of "processing information" - it's only proper that I should also have a final project to showcase "an information-oriented headspace." Well, it's not really a project, or even really a proper academic paper, but I do have something for you. 
+So the Correlates of War database project is a good showcase of "organizing information", and the Prisoner's Dilemma project is a good showcase of "processing information" - it's only proper that I should also have a final project to showcase "an information-oriented headspace." Well, it's not really a project, or even really a proper academic paper, but I do have something for you.
 
 For my spring philosophy class (IS590TH), our single/final assignment was to write our own (or critique someone else's) conceptual analysis on a topic relevant to library/information science. I chose to write a conceptual analysis (a.k.a. definition) on unique identifiers. For some reason, identifiers fascinate me - and I had devoted a lot of thought throughout the semester to understanding identifiers on a deeper level.
 
@@ -91,12 +90,10 @@ So what are unique identifiers? Stay tuned to my next blog post to find out! I'l
 
 As much fun as learning for the sake of learning is, I'm earning this degree so that I can get a job doing what I enjoy. Taking classes is only half the battle - I also need to gain practical on-the-job experience.
 
-During the fall semester, I had an hourly job and volunteered my time with different research projects in the iSchool. I talked with professors and told them what I wanted to do - work with data in the field of political science. Fortunately, many of those professors knew exactly where I had to go: the Cline Center for Advanced Social Research. The Cline Center is based in UIUC's Research Park, and works on computational social science research with partners at the University and other organizations focused on providing data for political scientists. The Cline Center was the one place on campus that would provide me the opportunity to combine information science with political science. At the end of the fall semester, I found out that they were hiring a graduate research assistant. I owe it to several amazing professors at the iSchool who advocated for me and connected me with the folks at the Cline Center. The GRA-ship turned out to be a perfect melding of my various skillsets: I would be creating the documentation for the Cline Center's Global News Index - a massive database of metadata and extracted features for international news articles. 
+During the fall semester, I had an hourly job and volunteered my time with different research projects in the iSchool. I talked with professors and told them what I wanted to do - work with data in the field of political science. Fortunately, many of those professors knew exactly where I had to go: the Cline Center for Advanced Social Research. The Cline Center is based in UIUC's Research Park, and works on computational social science research with partners at the University and other organizations focused on providing data for political scientists. The Cline Center was the one place on campus that would provide me the opportunity to combine information science with political science. At the end of the fall semester, I found out that they were hiring a graduate research assistant. I owe it to several amazing professors at the iSchool who advocated for me and connected me with the folks at the Cline Center. The GRA-ship turned out to be a perfect melding of my various skillsets: I would be creating the documentation for the Cline Center's Global News Index - a massive database of metadata and extracted features for international news articles.
 
-I was hired, and in January I got started writing the documentation that would allow the Cline Center to open up the database to the campus at large. Researching for and writing the documentation used my journalism skills (investigating algorithms and distilling complicated information into a concise and readable form) my political science and journalism domain knowledge, and my newly acquired understanding of information science (knowing what information about the variables and corpora was important to include for researchers from a wide variety of domains). I got to use InDesign to layout the documentation (and even learned some new tricks!), and learned that technical writing was definitely in my wheelhouse. By the end of the semester, after spending 20 hours every week working on this documentation, I had produced documentation for the global news index itself, as well as user guides for the applications used to access the database. 
+I was hired, and in January I got started writing the documentation that would allow the Cline Center to open up the database to the campus at large. Researching for and writing the documentation used my journalism skills (investigating algorithms and distilling complicated information into a concise and readable form) my political science and journalism domain knowledge, and my newly acquired understanding of information science (knowing what information about the variables and corpora was important to include for researchers from a wide variety of domains). I got to use InDesign to layout the documentation (and even learned some new tricks!), and learned that technical writing was definitely in my wheelhouse. By the end of the semester, after spending 20 hours every week working on this documentation, I had produced documentation for the global news index itself, as well as user guides for the applications used to access the database.
 
 I'm happy to say that next semester I will be continuing to work at the Cline Center as a Graduate Research Assistant, with my duties shifting from creating documentation to more directly assisting with the research conducted by the Cline Center and its partners. This GRA-ship was important to me for many reasons - not only did I gain experience in a new skill (technical writing), but I gained confidence in my ability to operate as a professional. I didn't feel like a student, just there to help with menial tasks or shadow the real experts; I felt like a part of the team, contributing something valuable on my own merits. What's more - I enjoyed my work. I even had a couple small opportunities to use my coding skills (which I enjoyed the most!). I'm so excited to see how I can further develop in my next semester.
 
 But before the fall semester arrives, there is summer - and what an exciting summer it will be! This summer I am in Gothenburg, Sweden, as a Data Science Intern for the Program on Governance and Local Development at the University of Gothenburg. I am working directly with GLD's Data Scientist on a major project - a massive survey on local governance issues in multiple Southeast African countries. My internship started off in the best way possible... attending GLD's annual conference (at an amazing spa hotel) to get a crash course on accountability research in international development. I got to meet both academics and practitioners from international aid organizations and enjoyed many interesting discussions. As for the internship itself, I've been able to use my python skills to process information and put it into the form our Data Scientist needs in order to run her analyses. I'm very glad that both of my programming instructors taught a unit on XPath - most of the information I've been processing comes from XML documents! I'm enjoying myself immensely, because every day has a new coding challenge - and it's all real problems (not class assignments) that need to be solved. I'm so excited to be at an internship that uses the information processing and organization skills I've spent the past year acquiring, in the domain of international development. Plus... it's Sweden! Living and working in a foreign country feels pretty normal at this point, but I am beyond stoked to experience life in a Scandinavian nation (especially considering the cool summers). Here's to another year of professional development - hopefully, it leads to a job!
-
-
