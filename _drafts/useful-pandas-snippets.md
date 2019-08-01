@@ -1,6 +1,6 @@
 ---
 title: Useful Pandas Snippets
-published: # true / false
+published: False
 permalink: /useful-panas-snippets
 toc: true
 toc_sticky: true
@@ -97,8 +97,9 @@ To change values depending on old value
 df['Column'] [df['Column'] == oldval] = newval
 ```
 
-Trimming whitespace
+## group by
 
 ```python
-
+df.groupby('grouping column')
+  .agg({'aggregating column': 'aggregating function'})
 ```
