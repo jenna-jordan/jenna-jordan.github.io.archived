@@ -1,20 +1,18 @@
 ---
 permalink: /books/
 title: "The Codex Index"
-last_modified_at: 2018-09-13
+last_modified_at: 2019-08-14
 toc: true
 toc_sticky: true
 comments: true
 ---
 
-Here you can find a list of the (primarily) non-fiction books that I've read. If you're interested in the fiction books I've read, that is a much, much longer list and you should probably friend me on Goodreads. There are a few select fiction books I've included in the list, simply because I think they are very intelligent reads that are relevant to the content on this blog. I have been making an effort recently to read more non-fiction books, and I especially like listening to non-fiction audiobooks. So some of the books on this list I haven't actually read... I've listened to them! With the longer audiobooks, I'll often listen for a bit and then switch to a different book... so some of the books will stay on my "currently reading" list for a while. It just means I'm in the middle of it, and fully intend on finishing it at some point.
+Here you can find a list of some of the (primarily) non-fiction books that I've read. If you're interested in the fiction books I've read, that is a much, much longer list and you should probably friend me on Goodreads. There are a few select fiction books I've included in the list, simply because I think they are very intelligent reads that are relevant to the content on this blog. I have been making an effort recently to read more non-fiction books, and I especially like listening to non-fiction audiobooks. So some of the books on this list I haven't actually read... I've listened to them! With the longer audiobooks, I'll often listen for a bit and then switch to a different book... so some of the books will stay on my "in the middle" list for a while. It just means I've put the book on pause, and fully intend on finishing it at some point.
 
-Note: the "What I've read" and "What I want to read" sections are still a work in progress.
+## In the middle
 
-## What I'm reading
-
-"Homo Deus: A Brief History of Tomorrow" by Yuval Noah Harari
-:     I'm listening to this book via Audible. I really enjoyed "Sapiens," and this books builds off of the last chapter in Sapiens to focus on what humanity will look like in the future, but with a reasoning strongly grounded in our history. Fascinating topic by one of my favorite modern philosophers.
+"The Information: A History, a Theory, a Flood" by James Gleick
+:     The concept of "information" has a fascinating history - and this book is a deep dive into everything information, and all of the ways humans have devised to communicate information from pre-literate societies to the computers of the modern era. As an aspiring information scientist, I feel like this book contextualizes everything I am learning, providing a solid foundation for understanding the tools I use for working with data.
 
 "A History of Western Philosophy" by Bertrand Russell
 :     I'm listening to this book via Audible... and I kid you not, it is 40 hours long. I'm currently paused somewhere near the beginning of the medieval philosophy section. I can say that the ancient philosophy section was very interesting, and I learned a lot, but I also definitely zoned out while listening to it. Someday I'd like to get a physical copy of this book and use it as a reference (as it's perfectly set up to be just that).
@@ -22,7 +20,16 @@ Note: the "What I've read" and "What I want to read" sections are still a work i
 "The Origins of Political Order: From Prehuman Times to the French Revolution" by Francis Fukuyama
 :     I'm listening to this book via Audible... and it is also on pause. It has some very interesting theories about how humans were able to form increasingly complex societies, despite being programmed to essentially live in communities no larger than 150 people. It's a study on the theoretical and philosophical foundations of politics, and the first in a duology on Political Order & Political Decay (the second one being on decay).
 
-## What I've read
+"Accessory to War: The Unspoken Alliance Between Astrophysics and the Military" by Neil deGrasse Tyson & Avis Lang
+:    The most popular (and vocal) astrophysicist today, Neil deGrasse Tyson, takes on the centuries-old relationship between science (especially astronomy) and the military - a "curiously complicit" relationship as the military's conquests are only possible due to discoveries made by (generally) progressive/peace-loving scientists. Tyson & Lang cover everything from colonial times (navigating the high seas!) to the present day (spy satellites!). This book merges a lot of my interests (astronomy, politics, history, military, ethics), so it is definitely a must read!
+
+## Finished
+
+"Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think" by Hans Rosling
+:    Bill Gates thinks this book is so important, [he gifted it to all 2018 college graduates](https://www.businessinsider.com/bill-gates-giving-free-copies-factfulness-to-college-graduates-2018-6). Written by the late Hans Rosling, a Swedish doctor and statistician, this book was written to change the way people think about the world - by arming its readers with "a set of simple thinking tools." It makes the case that the world is in a better state than we think, and it is important to have an accurate view of the world in order to continue to improve it. The book is shaped around the [10 instincts that distort our worldview, and 10 rules of thumb we can use to combat these instincts](https://www.gapminder.org/factfulness/), with anecdotes from Rosling's life used to illustrate how these instincts can be encountered and overcome in everyday life.
+
+"Homo Deus: A Brief History of Tomorrow" by Yuval Noah Harari
+:     As the sequel to "Sapiens," this book focuses on humanity's future, rather than our past. But because Harari is still a historian first, and philosopher second, there is still a substantial amount of history in this book to serve as context for the future he envisions/predicts. You could call this book "speculative non-fiction," as Harari takes familiar ideas from science fiction and writes about them in his typically engaging non-fiction prose. He takes a pragmatic view of the future, and worries about how society will be able to integrate new technology without leaving behind most of humanity - that the elite will become god-like and the rest of us will become redundant and useless.
 
 "Sapiens: A Brief History of Humankind" by Yuval Noah Harari
 :    I really loved this book. It presents a big picture history of the human race, from our origin of a species to our current state of technological progress. It looks at how we have always shaped our environment (by frequently genocidal means), how we learned to organize and store information, the fundamental unifying forces of human history... addressing most of the "big questions" in way that was both philosophically rigorous and interesting - because he told it as a story. This is one of the fundamental points that Harari makes at the beginning of the book: the reason that humans are the dominant species is because we can cooperate in large numbers, and the glue that allows us to cooperate on a massive scale is our capacity for storytelling.
@@ -42,19 +49,19 @@ Note: the "What I've read" and "What I want to read" sections are still a work i
 "Infomocracy" by Malka Ann Older (Centenal Cycle series)
 :    The other fiction book/series I knew I needed to include in this list, "Infomocracy" is a vision of how global micro-democracies could develop during our information age, in the near future. Older is a humanitarian worker with over eight years of experience working in international aid & development, and her desire for a better global political system really comes through in her world-building. This is an author who knows the power of science fiction in influencing future leaders, and focuses on addressing political issues we will very likely face within the next few decades.
 
-## What I want to read
+## Next up
 
 "Smartcuts: How Hackers, Innovators, and Icons Accelerate Success" by Shane Snow
 :    This is a book about lateral thinking, and how people can accomplish incredible things in a very short amount of time. This book tries to rethink success and provide techniques for doing things smarter and faster (by taking "smartcuts," not "shortcuts").
 
-"Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think" by Hans Rosling
-:    Bill Gates thinks this book is so important, [he's gifting it to all college graduates this year](https://www.businessinsider.com/bill-gates-giving-free-copies-factfulness-to-college-graduates-2018-6) (2018). Written by the late Hans Rosling, a Swedish doctor and statistician, this book was written to change the way people think about the world - by arming its readers with "a set of simple thinking tools." It makes the case that the world is in a better state than we think, and it is important to have an accurate view of the world in order to continue to improve it.
-
 "21 Lessons for the 21st Century" by Yuval Noah Harari
-:    By the author of "Sapiens" and "Homo Deus," this book is a set of 21 essays about the most important issues facing humanity today. One of these essays is about how science fiction is today's most important artistic genre! After Sapiens and Homo Deus, I will read anything this man writes.
+:    By the author of "Sapiens" and "Homo Deus," this book is a set of 21 essays about the most important issues facing humanity today. One of these essays is about how science fiction is today's most important artistic genre! After "Sapiens" and "Homo Deus", I will read anything this man writes.
 
-"Accessory to War: The Unspoken Alliance Between Astrophysics and the Military" by Neil deGrasse Tyson & Avis Lang
-:    The most popular (and vocal) astrophysicist today, Neil deGrasse Tyson, takes on the centuries-old relationship between science (especially astronomy) and the military - a "curiously complicit" relationship as the military's conquests are only possible due to discoveries made by (generally) progressive/peace-loving scientists. Tyson & Lang cover everything from colonial times (navigating the high seas!) to the present day (spy satellites!). This book merges a lot of my interests (astronomy, politics, history, military, ethics), so it is definitely a must read!
+"The Moment of Lift: How Empowering Women Changes the World" by Melinda Gates
+:     The Bill and Melinda Gates Foundation is one of the best examples of how to use data in the realm of international development, and in this book Melinda Gates focuses on one key mission within international development: empowering women.
+
+"Thinking, Fast and Slow" by Daniel Kahneman
+:     This book focuses on how we think - and why that is important to everyday decision making. Kahneman explains that our brain has 2 systems for thinking: System 1 (fast, intuitive, emotional) and System 2 (slower, deliberative, logical), and each has their advantages and disadvantages. By learning when we use each system and what their faults and biases are, we can make better decisions and guard against bad judgements.
 
 ## Suggestions?
 
