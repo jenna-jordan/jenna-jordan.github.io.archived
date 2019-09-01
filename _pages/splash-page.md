@@ -1,16 +1,16 @@
 ---
-title: "Welcome..."
+title: "Hello!"
 layout: splash
 permalink: /
 header:
   overlay_color: "#000"
-  overlay_filter: "0.1"
-  overlay_image: /assets/images/home_splash_main.jpg
+  overlay_filter: "0.25"
+  overlay_image: /assets/images/home_splash_new2019.jpg
   cta_label: "See my resume"
-  cta_url:   "https://drive.google.com/open?id=1RFnvhBmpYCDFC7CzTK3wxu33aKd6K6p-"
-excerpt: "to my world of Digital Library Science."
+  cta_url:   "https://drive.google.com/file/d/10BflSvHVInePUL_WUwMumpRQGnUG0Axf/view?usp=sharing"
+excerpt: "Welcome to my personal website."
 intro:
-  - excerpt: "Follow me as I learn about library science, coding for libraries, data & digital asset management, and more. This blog serves as an archive of my experiences as I complete my MSLIS at UIUC. I write about what I'm learning in class, what I'm doing outside of class, books I'm reading, and random musings about the library world. I will also document my projects, so you can see what I've created and how I did it."
+  - excerpt: "My name is Jenna Jordan. I'm an aspiring data librarian, currently in my second year of earning my Masters in Library and Information Science at the University of Illinois at Urbana Champaign. On this website you can read about the classes I've taken while completing my MSLIS at UIUC, my thoughts and experiences while working my way through grad school, and the projects I've worked on along the way. You can also find out a little bit more about me - including some of my favorite books!"
 feature_row:
   - image_path: /assets/images/home_splash_blog.jpg
     alt: "typewriter"

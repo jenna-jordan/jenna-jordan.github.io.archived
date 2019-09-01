@@ -124,7 +124,19 @@ areas :
 	{
 		"id": "KR",
 		"showAsSelected": true
-	}
+	},
+  {
+    "id": "SE",
+    "showAsSelected": true
+  },
+  {
+    "id": "NO",
+    "showAsSelected": true
+  },
+  {
+    "id": "DK",
+    "showAsSelected": true
+  }
 ]
 },
 areasSettings : {
