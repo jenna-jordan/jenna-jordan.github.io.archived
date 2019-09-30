@@ -5,7 +5,7 @@ permalink: /about/
 
 ### Hello!
 
-My name is Jenna Jordan, and I'm currently studying digital library science at the University of Illinois at Urbana-Champaign. I'm on track to earn my MSLIS (Master of Science in Library and Information Science) by the Spring of 2020, but I have a lot to learn until then!
+My name is Jenna Jordan, and I'm currently studying digital library science at the University of Illinois at Urbana-Champaign. I'm on track to earn my MSLIS (Master of Science in Library and Information Science) by May 2020, but I have a lot to learn until then!
 
 This blog is a place for me to write about what I'm thinking - whether that's posts synthesizing what I've learned using the Feynman technique, narrative essays about topics that have captured my interests, or tutorials for how to use certain technologies or programs. I also plan to post my projects on here in order to create a portfolio for potential employers or collaborators to view. Hopefully this means that it will be a resource for anybody else who is interested in learning about digital library science, but I am mostly creating this for myself. Writing helps me process, and there is going to be a lot of information for my brain to process!
 

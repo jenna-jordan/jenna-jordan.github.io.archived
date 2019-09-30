@@ -252,6 +252,9 @@ collections:
   international-relations-database:
     output: true
     permalink: /:collection/:path/
+  prisoners-dilemma:
+    output: true
+    permalink: /:collection/:path/
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -287,6 +290,14 @@ defaults:
   - scope:
       path: ""
       type: international-relations-database
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _prisoners-dilemma (project)
+  - scope:
+      path: ""
+      type: prisoners-dilemma
     values:
       layout: single
       author_profile: false
