@@ -19,7 +19,7 @@ gallery:
   - url: https://drive.google.com/open?id=11QlIriyQCCu0NYbh4OUf6D1_odBxGVb7
     image_path: /assets/images/project_irdb_posterpaper.jpg
     alt: "paper snapshot"
-    title: "Poster Paper"
+    title: "Poster Paper (preprint)"
 ---
 
 {% include gallery caption="Documents" %}
