@@ -103,3 +103,6 @@ df['Column'] [df['Column'] == oldval] = newval
 df.groupby('grouping column')
   .agg({'aggregating column': 'aggregating function'})
 ```
+```python
+df.groupby('grouping column')['agg column'].calculation()
+```
