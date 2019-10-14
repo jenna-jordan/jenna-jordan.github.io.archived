@@ -19,10 +19,12 @@ gallery:
   - url: https://drive.google.com/open?id=11QlIriyQCCu0NYbh4OUf6D1_odBxGVb7
     image_path: /assets/images/project_irdb_posterpaper.jpg
     alt: "paper snapshot"
-    title: "Poster Paper (preprint)"
+    title: "Paper (preprint)"
+  - url: https://drive.google.com/open?id=1CXVJlImhXWY6w0foBKZXpuhi_ef3DJpx
+    image_path: /assets/images/project_irdb_poster.jpg
+    alt: "poster snapshot"
+    title: "Poster"
 ---
-
-{% include gallery caption="Documents" %}
 
 While I started the IRDB project with the goal of improving access to the Correlates of War datasets (as well as gaining practical experience in organizing data into a relational database and wrangling data in python via pandas), along the way I discovered just how much the data transformation process was also improving data quality. Relational databases are amazing for many reasons - one of which is that they can be really strict. A well-designed database will minimize invalid entries - something that is always a risk for human-generated data. I have to give credit for a lot of my enthusiasm towards relational databases to my IS490DB professor, Dr. Catherine Blake.
 
@@ -30,4 +32,6 @@ Prof. Blake encouraged me to submit a paper to the ASIS&T conference - the prima
 
 In July, ASIS&T notified me that my poster paper submission had been accepted. I received feedback from three reviewers, modified my paper accordingly, and submitted the final version. I was going to Australia, for my first ever conference presentation! Now, all that was left to do was to actually create the poster and present it at the ASIS&T Poster Session.
 
-... still working on that bit.
+I will be presenting my poster on October 21, 2019, in Melbourne, Australia. If you would like to read the paper or see the poster, they are available here:
+
+{% include gallery caption="Documents: the paper has all the words & the poster has all the figures" %}
