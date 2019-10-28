@@ -22,7 +22,8 @@ The Prisoner's Dilemma has long been a favorite for political scientists - it is
 
 The tournament that I created has its own tweak: reactive noise. Most modern tournaments contain some level of noise (the chance that the other player will misinterpret your move), however the noise level tends to remain fairly constant. The idea behind reactive noise is that in the real world, cooperating decreases noise (by increasing trust and transparency), while defecting increases noise. So in the tournament that I designed, there is an arbitrary starting level of noise, and each time a player cooperates that noise is reduced some amount, and then each time a player defects that noise is increased some amount. Randomness is based into the game at every possible opportunity (using python's 'random' library), as is suitable for a Monte Carlo simulation.
 
-Credit for the idea of reactive noise belongs to Dan Shalmon, who mentioned the idea during a long and fascinating discussion about the prisoner's dilemma at the Cline Center office.{: .notice--info}
+Credit for the idea of reactive noise belongs to Dan Shalmon, who mentioned the idea during a long and fascinating discussion about the prisoner's dilemma at the Cline Center office.
+{: .notice--info}
 
 The full code is available on the GitHub page, as well as a Quick Start Guide for anybody interested in running their own simulations. The parameters are completely flexible - you can either leave them at the defaults and run the analysis simply by calling the function `run_MCsim()`, or play with the parameters (detailed in the Quick Start Guide) to see how/if the resulting rankings vary.
 
