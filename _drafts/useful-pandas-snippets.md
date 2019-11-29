@@ -97,6 +97,15 @@ To change values depending on old value
 df['Column'] [df['Column'] == oldval] = newval
 ```
 
+alternate method
+
+```python
+selected_rows = df.index[df['column'] CONDITIONAL].tolist()
+
+for i in selected_rows:
+    df.iloc[i, df.columns.get_loc('column')] = NEWVALUE
+```
+
 ## group by
 
 ```python

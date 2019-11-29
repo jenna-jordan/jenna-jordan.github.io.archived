@@ -22,11 +22,11 @@ I earned my Bachelor's degree at the University of North Carolina at Chapel Hill
 If you are interested in reading my undergraduate honors thesis, you can find it [here](https://drive.google.com/open?id=1q0JuiWXrgYbjpEA4MXtEuWgEIEuVqdC-).
 {: .notice--info}
 
-Actually, my experience working on my thesis is a big part of why I decided to go into LIS. I really liked working with the international political data, and I wanted to be able to help other people who may be struggling through the process of trying to conduct research on a topic with vast amounts of data available... but scattered throughout the interwebs.
+Actually, my experience working on my thesis is a big part of why I decided to go into LIS. I really liked working with the international political data, and I wanted to be able to help other people who may be struggling through the process of trying to conduct research on a topic with vast amounts of data available... but scattered throughout the interwebs and not in the format needed for their analysis.
 
 ### What have I been doing since graduation?
 
-When I graduated, I wasn't really sure what I wanted to do. I had conveniently decided after graduating with a degree in Journalism that I did not want to be a journalist (for various reasons, including my fear of confrontational interactions with strangers). I also wasn't really interested in the types of jobs that poli sci undergrads tend to get straight out of college - I knew that to get a good job I would need a Master's. But what would I get my Master's in? I wasn't sure, and that was a decision that I needed to be sure about. So I did the very typical thing that many 20-somethings do when they don't know what to do with their lives... travel! And what's the best way to travel without going broke? Teach English!
+When I graduated, I wasn't really sure what I wanted to do. I had conveniently decided after graduating with a degree in Journalism that I did not want to be a journalist (for various reasons, including my fear of confrontational interactions with strangers). I also wasn't really interested in the types of jobs that poli sci undergrads tend to get straight out of college - I knew that to get a good job I would need a Master's degree. But what would I get my Master's in? I wasn't sure, and that was a decision that I needed to be sure about. So I did the very typical thing that many 20-somethings do when they don't know what to do with their lives... travel! And what's the best way to travel without going broke? Teach English!
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/korea_kindies.jpg" alt="My favorite kindergarten class in Korea">
@@ -164,8 +164,11 @@ You can see what non-fiction (and some fiction) books I've been reading on my bo
 Some of my favorite sci-fi/fantasy authors (and their series) are:
 
   - Ada Palmer (Terra Ignota)
+  - Malka Ann Older (Centenal Cycle)
   - N.K. Jemisin (Broken Earth, Inheritance)
   - Ilona Andrews (Kate Daniels, Innkeeper)
+  - Eliot Peper (Analog)
+  - Pierce Brown (Red Rising)
   - Jacqueline Carey (Kushiel)
   - Anne Bishop (Black Jewels Trilogy, The Others)
   - Patricia Briggs (Mercy Thompson)

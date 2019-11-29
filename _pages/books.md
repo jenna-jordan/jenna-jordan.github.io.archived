@@ -43,13 +43,10 @@ Here you can find a list of some of the (primarily) non-fiction books that I've 
 "Outliers: The Story of Success" by Malcolm Gladwell
 :    This was a very interesting book that was essentially divided into two parts - the first part was about very successful individuals and their shared techniques for achieving that success (Gladwell's famous 10,000 hour rule). But the second part was even more interesting for me, and it was about how the social, economic, and political situations that individuals were in had a far greater influence on those individuals being successful than any actions that individual person took.
 
-"Too Like the Lightning" by Ada Palmer (Terra Ignota series)
-:    One of the few fiction books/series I've included on this list, the Terra Ignota series is a fantastic work of narrative philosophy in the guise of science fiction. The author is a historian by profession, and write this book as a history, of revolutionary events set in the 25th century, from the perspective of an unreliable narrator, in the style of 18th century literature, with the "reader" as a character in conversation with the narrating character. The third book in the series, "The Will to Battle," adds philosopher Thomas Hobbes as a third character in the meta-conversation that occurs between the narrating character and the reader. If you are into political theory and science fiction, it doesn't get much better than this.
-
-"Infomocracy" by Malka Ann Older (Centenal Cycle series)
-:    The other fiction book/series I knew I needed to include in this list, "Infomocracy" is a vision of how global micro-democracies could develop during our information age, in the near future. Older is a humanitarian worker with over eight years of experience working in international aid & development, and her desire for a better global political system really comes through in her world-building. This is an author who knows the power of science fiction in influencing future leaders, and focuses on addressing political issues we will very likely face within the next few decades.
-
 ## Next up
+
+"Data and Reality" by William Kent
+:    This book merges databases, philosophy, data modeling... it's a meditation on how we can capture an infinitely complex reality in finite data models that will themselves shape reality. As someone interested in the philosophy of information, this book is a must read. I learned about this book via [@hillelogram](https://twitter.com/hillelogram) on Twitter.
 
 "Smartcuts: How Hackers, Innovators, and Icons Accelerate Success" by Shane Snow
 :    This is a book about lateral thinking, and how people can accomplish incredible things in a very short amount of time. This book tries to rethink success and provide techniques for doing things smarter and faster (by taking "smartcuts," not "shortcuts").
@@ -62,6 +59,17 @@ Here you can find a list of some of the (primarily) non-fiction books that I've 
 
 "Thinking, Fast and Slow" by Daniel Kahneman
 :     This book focuses on how we think - and why that is important to everyday decision making. Kahneman explains that our brain has 2 systems for thinking: System 1 (fast, intuitive, emotional) and System 2 (slower, deliberative, logical), and each has their advantages and disadvantages. By learning when we use each system and what their faults and biases are, we can make better decisions and guard against bad judgements.
+
+## Fiction
+
+"Too Like the Lightning" by Ada Palmer (Terra Ignota series)
+:    One of the few fiction books/series I've included on this list, the Terra Ignota series is a fantastic work of narrative philosophy in the guise of science fiction. The author is a historian by profession, and write this book as a history, of revolutionary events set in the 25th century, from the perspective of an unreliable narrator, in the style of 18th century literature, with the "reader" as a character in conversation with the narrating character. The third book in the series, "The Will to Battle," adds philosopher Thomas Hobbes as a third character in the meta-conversation that occurs between the narrating character and the reader. If you are into political theory and science fiction, it doesn't get much better than this.
+
+"Infomocracy" by Malka Ann Older (Centenal Cycle series)
+:    Another fiction book/series I knew I needed to include in this list, "Infomocracy" is a vision of how global micro-democracies could develop during our information age, in the near future. Older is a humanitarian worker with over eight years of experience working in international aid & development, and her desire for a better global political system really comes through in her world-building. This is an author who knows the power of science fiction in influencing future leaders, and focuses on addressing political issues we will very likely face within the next few decades.
+
+"Bandwidth" by Eliot Peper (Analog series)
+:    Out of the three, these books are set in the nearest future. The Analog series features an omnipresent "feed" - imagine all of your social media and news feeds melded together and constantly in your field of vision (the specific mechanism is left unspecified). This feed shapes how the characters perceive reality - and when the main character realizes that his feed is being manipulated, he is forced to question his entire reality. The narrative is a fantastic blend of spy-thriller and futuristic speculation that confronts the same issues that we are facing now as a society that consumes news through social media.
 
 ## Suggestions?
 
