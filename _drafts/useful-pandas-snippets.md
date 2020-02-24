@@ -115,3 +115,21 @@ df.groupby('grouping column')
 ```python
 df.groupby('grouping column')['agg column'].calculation()
 ```
+
+## iterrate over rows & apply custom function
+
+```python
+def custom_function(df):
+    for i, row in df.iterrows():
+        
+        if row.Column in [possible, values]:
+            var = some_value
+        
+        df.loc[i, 'new_column'] = new_var_value
+    
+    return df
+
+df = df.apply(custom_function)      
+df_gb = df.groubpy(column).apply(custom_function)      
+
+```

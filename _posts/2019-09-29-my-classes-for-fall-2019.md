@@ -11,7 +11,7 @@ tags:
     - 3rd Semester
     - Classes
     - IS542
-    - IS90DV
+    - IS590DV
     - IS590DT
     - IS590OM
 ---
@@ -23,7 +23,7 @@ One year down, one year to go! During the first year of my MSLIS degree, I focus
 - IS590DT: Data Mining
 - IS590OM: Open Data Mashups
 
-Note that the course descriptions, themes, learning outcomes and such are pulled from the syllabus for each respective course.
+Note that the course descriptions, themes, learning outcomes and such are pulled from the syllabi for each respective course.
 
 ## IS542: Data, Stats, & Info
 
