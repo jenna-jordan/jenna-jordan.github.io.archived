@@ -1,5 +1,5 @@
 ---
-title: "Hello!"
+title: "Data Librarian"
 layout: splash
 permalink: /
 header:
@@ -8,9 +8,9 @@ header:
   overlay_image: /assets/images/home_splash_new2019.jpg
   cta_label: "See my resume"
   cta_url:   "https://drive.google.com/file/d/1PYxMfQxZcvnBmvHF9RvW-OWgMPQ7LF4r/view?usp=sharing"
-excerpt: "Welcome to my personal website."
+excerpt: "munging, modeling, and managing data; promoting data literacy and data ethics; improving data resources for all"
 intro:
-  - excerpt: "My name is Jenna Jordan. I'm an aspiring data librarian/analyst, currently in my second year of earning my Masters in Library and Information Science at the University of Illinois at Urbana Champaign (specializing in data management). On this website you can read about the classes I've taken while completing my MSLIS at UIUC, my thoughts and experiences while working my way through grad school, and the projects I've worked on along the way. You can also find out a little bit more about me - including some of my favorite books!"
+  - excerpt: "My name is Jenna Jordan. I'm an aspiring data librarian/analyst, about to graduate with a Masters in Library and Information Science from the University of Illinois at Urbana Champaign. Here you can read about the classes I've taken while completing my MSLIS at UIUC, my thoughts and experiences while working my way through grad school, and the projects I've worked on along the way. You can also find out a little bit more about me - including some of my favorite books!"
 feature_row:
   - image_path: /assets/images/home_splash_blog.jpg
     alt: "typewriter"
