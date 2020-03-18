@@ -95,6 +95,8 @@ To change values depending on old value
 
 ```python
 df['Column'] [df['Column'] == oldval] = newval
+# OR... better:
+df.loc[df['Column'] == condition, 'changingColumn'] = newval
 ```
 
 alternate method
