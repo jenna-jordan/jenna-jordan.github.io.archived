@@ -20,10 +20,13 @@ Here you can find a list of some of the (primarily) non-fiction books that I've 
 "The Origins of Political Order: From Prehuman Times to the French Revolution" by Francis Fukuyama
 :     I'm listening to this book via Audible... and it is also on pause. It has some very interesting theories about how humans were able to form increasingly complex societies, despite being programmed to essentially live in communities no larger than 150 people. It's a study on the theoretical and philosophical foundations of politics, and the first in a duology on Political Order & Political Decay (the second one being on decay).
 
-"Accessory to War: The Unspoken Alliance Between Astrophysics and the Military" by Neil deGrasse Tyson & Avis Lang
-:    The most popular (and vocal) astrophysicist today, Neil deGrasse Tyson, takes on the centuries-old relationship between science (especially astronomy) and the military - a "curiously complicit" relationship as the military's conquests are only possible due to discoveries made by (generally) progressive/peace-loving scientists. Tyson & Lang cover everything from colonial times (navigating the high seas!) to the present day (spy satellites!). This book merges a lot of my interests (astronomy, politics, history, military, ethics), so it is definitely a must read!
-
 ## Finished
+
+"The Moment of Lift: How Empowering Women Changes the World" by Melinda Gates
+:     The Bill and Melinda Gates Foundation is one of the best examples of how to use data in the realm of international development, and in this book Melinda Gates focuses on one key mission within international development: empowering women. I thoroughly enjoyed listening to Melinda Gates narrating her own book, which was half auto-biography and half advocating for the role of women in international development. Many of the topics in this book were already familiar to me - family planning, education for girls, maternal & newborn care, unequal division of housework - but other topics were new (and fascinating), such as the role of women in agriculture. Melinda Gates talks about each of these important topics through the lens of her own personal experience, and relates moving anecdotes that gives each broad mission an urgent and emotional tie. Having already read Factfulness, I also appreciated her many stories and praise of Hans Rosling and his work.
+
+"Accessory to War: The Unspoken Alliance Between Astrophysics and the Military" by Neil deGrasse Tyson & Avis Lang
+:    The most popular (and vocal) astrophysicist today, Neil deGrasse Tyson, takes on the centuries-old relationship between science (especially astronomy) and the military - a "curiously complicit" relationship as the military's conquests are only possible due to discoveries made by (generally) progressive/peace-loving scientists. Tyson & Lang cover everything from colonial times (navigating the high seas!) to the present day (spy satellites!). This book merges a lot of my interests (astronomy, politics, history, military, ethics), so it was definitely a must-read!
 
 "Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think" by Hans Rosling
 :    Bill Gates thinks this book is so important, [he gifted it to all 2018 college graduates](https://www.businessinsider.com/bill-gates-giving-free-copies-factfulness-to-college-graduates-2018-6). Written by the late Hans Rosling, a Swedish doctor and statistician, this book was written to change the way people think about the world - by arming its readers with "a set of simple thinking tools." It makes the case that the world is in a better state than we think, and it is important to have an accurate view of the world in order to continue to improve it. The book is shaped around the [10 instincts that distort our worldview, and 10 rules of thumb we can use to combat these instincts](https://www.gapminder.org/factfulness/), with anecdotes from Rosling's life used to illustrate how these instincts can be encountered and overcome in everyday life.
@@ -53,9 +56,6 @@ Here you can find a list of some of the (primarily) non-fiction books that I've 
 
 "21 Lessons for the 21st Century" by Yuval Noah Harari
 :    By the author of "Sapiens" and "Homo Deus," this book is a set of 21 essays about the most important issues facing humanity today. One of these essays is about how science fiction is today's most important artistic genre! After "Sapiens" and "Homo Deus", I will read anything this man writes.
-
-"The Moment of Lift: How Empowering Women Changes the World" by Melinda Gates
-:     The Bill and Melinda Gates Foundation is one of the best examples of how to use data in the realm of international development, and in this book Melinda Gates focuses on one key mission within international development: empowering women.
 
 "Thinking, Fast and Slow" by Daniel Kahneman
 :     This book focuses on how we think - and why that is important to everyday decision making. Kahneman explains that our brain has 2 systems for thinking: System 1 (fast, intuitive, emotional) and System 2 (slower, deliberative, logical), and each has their advantages and disadvantages. By learning when we use each system and what their faults and biases are, we can make better decisions and guard against bad judgements.
