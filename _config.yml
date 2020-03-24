@@ -255,6 +255,9 @@ collections:
   prisoners-dilemma:
     output: true
     permalink: /:collection/:path/
+  beepocalypse:
+    output: true
+    permalink: /:collection/:path/
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -298,6 +301,14 @@ defaults:
   - scope:
       path: ""
       type: prisoners-dilemma
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _beepocalypse (project)
+  - scope:
+      path: ""
+      type: beepocalypse
     values:
       layout: single
       author_profile: false
