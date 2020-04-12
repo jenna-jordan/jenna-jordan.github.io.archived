@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/home_splash_new2019.jpg
   cta_label: "See my resume"
   cta_url:   "https://drive.google.com/file/d/1cxt5UYm8FARa15LWmpC5q7WiP1QF6g6t/view?usp=sharing"
-excerpt: "munging, modeling, and managing data; FAIR data principles, data literacy, data ethics; improving data resources for political scientists"
+excerpt: "munging, modeling, & managing data; advocate of FAIR data principles, data literacy, & data ethics"
 intro:
   - excerpt: "My name is Jenna Jordan. I'm an aspiring data librarian/analyst, about to graduate with a Masters in Library and Information Science from the University of Illinois at Urbana Champaign. Here you can read about the classes I've taken while completing my MSLIS at UIUC, my thoughts and experiences while working my way through grad school, and the projects I've worked on along the way. You can also find out a little bit more about me - including some of my favorite books!"
 feature_row:
