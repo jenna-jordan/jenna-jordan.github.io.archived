@@ -25,6 +25,8 @@ gallery:
 
 Please take a look at my poster for PyCon 2020, entitled "Python can be tidy too: pandas recipes for normalizing data".
 
-{% include gallery caption="Documents: the paper has all the words & the poster has all the figures" %}
+{% include gallery caption="Click on the poster above to view or download the PDF." %}
 
 The poster is also available at the [PyCon 2020 Online Poster Hall](https://us.pycon.org/2020/online/posters/)
+
+The adorable Tidy Panda featured on the poster was created by Madelyn Ruck. See her other creations on her Instagram page, [@madruckus.design](https://www.instagram.com/madruckus.design/).
