@@ -258,6 +258,9 @@ collections:
   beepocalypse:
     output: true
     permalink: /:collection/:path/
+  tidy-pandas-cookbook:
+    output: true
+    permalink: /:collection/:path/
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -309,6 +312,14 @@ defaults:
   - scope:
       path: ""
       type: beepocalypse
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _tidy-pandas-cookbook (project)
+  - scope:
+      path: ""
+      type: tidy-pandas-cookbook
     values:
       layout: single
       author_profile: false

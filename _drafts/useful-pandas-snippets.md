@@ -131,7 +131,7 @@ def custom_function(df):
     
     return df
 
-df = df.apply(custom_function)      
+df = custom_function(df)      
 df_gb = df.groubpy(column).apply(custom_function)      
 
 ```
