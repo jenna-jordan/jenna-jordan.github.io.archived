@@ -5,12 +5,12 @@ permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /assets/images/home_splash_new2019.jpg
+  overlay_image: /assets/images/home_splash_2020.jpg
   cta_label: "See my resume"
   cta_url:   "https://drive.google.com/file/d/1cxt5UYm8FARa15LWmpC5q7WiP1QF6g6t/view?usp=sharing"
 excerpt: "munging, modeling, & managing data; advocate of FAIR data principles, data literacy, & data ethics"
 intro:
-  - excerpt: "My name is Jenna Jordan. I'm an aspiring data librarian/analyst, about to graduate with a Masters in Library and Information Science from the University of Illinois at Urbana Champaign. Here you can read about the classes I've taken while completing my MSLIS at UIUC, my thoughts and experiences while working my way through grad school, and the projects I've worked on along the way. You can also find out a little bit more about me - including some of my favorite books!"
+  - excerpt: "My name is Jenna Jordan. I'm an aspiring data librarian who just graduated with a Masters in Library and Information Science from the University of Illinois at Urbana Champaign. Here you can read about the classes I took while completing my MSLIS at UIUC, my thoughts and experiences while working my way through grad school, and the projects I've worked on along the way. You can also find out a little bit more about me - including some of my favorite books!"
 feature_row:
   - image_path: /assets/images/home_splash_blog.jpg
     alt: "typewriter"

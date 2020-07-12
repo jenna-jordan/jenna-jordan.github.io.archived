@@ -13,7 +13,7 @@ tags:
     - FAQ
 ---
 
-In case anybody is curious to learn more about me, I've decided to preemptively interview myself to give some basic background on what I've studied, where I've worked,  the places I've traveled to, and what I do for fun. Enjoy!
+In case anybody is curious to learn more about me, I've decided to preemptively interview myself to give some basic background on what I've studied, where I've worked, the places I've traveled to, and what I do for fun. Enjoy!
 
 ### What is my academic background?
 
@@ -30,7 +30,7 @@ When I graduated, I wasn't really sure what I wanted to do. I had conveniently d
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/korea_kindies.jpg" alt="My favorite kindergarten class in Korea">
-  <figcaption>My favorite kindergarteners being adorable.</figcaption>
+  <figcaption>Some of my favorite kindergarteners being adorable.</figcaption>
 </figure>
 
 
