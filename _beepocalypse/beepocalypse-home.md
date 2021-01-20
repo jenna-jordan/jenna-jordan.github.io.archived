@@ -13,10 +13,17 @@ sidebar:
     text: "This project was a collaboration between the Cline Center and Dr. May Berenbaum during the Spring 2020 semester. The project resulted in a Perspective article submitted to PNAS in March 2020, regarding the lack of media coverage on pollinator decline."
   - title: "Relevant Position"
     text: "Graduate Research Assistant at the Cline Center for Advanced Social Research"
+  - title: "Published Article"
+    text: "[No buzz for bees: Media coverage of pollinator decline](https://doi.org/10.1073/pnas.2002552117)"
+  - title: "Replication Data"
+    text: "[Illinois Data Bank](https://databank.illinois.edu/datasets/IDB-4237085)"
   - title: "Github Repo"
     text: "[beepocalypse](https://github.com/jenna-jordan/beepocalypse)"
 
 ---
+
+"No buzz for bees: Media coverage of pollinator decline" was published on January 12, 2021, as a part of the Global Insect Decline special issue in PNAS (Proceedings of the National Academy of Sciences of the USA). You can access the article [here](https://doi.org/10.1073/pnas.2002552117).
+{: .notice--info}
 
 At the beginning of the Spring 2020 semester, Dr. May Berenbaum approached the Cline Center for Advanced Social Research about a potential project. Dr. Berenbaum is an entomologist at UIUC who has long researched the issue of pollinator decline. She wanted to see if the increasing levels of concern about pollinators in academic circles was reflected in coverage by the popular press. The Cline Center's Global News Index is a fantastic data resource for studies about media coverage, and our director, Dr. Scott Althaus, has a lot of experience in analyzing media coverage. Thus, the beepocalypse project was born.
 
@@ -26,4 +33,6 @@ One of my primary focuses throughout this process was in developing a reproducib
 
 After over two months of work, we submitted a Perspective article to PNAS in March 2020. The article is titled "No buzz for bees: media coverage of pollinator decline," and was co-written by Drs. Berenbaum and Althaus. Dan Shalmon and I both received co-author credit for our contributions in designing and performing the research, collecting and analyzing the data, and creating figures. I was very excited and grateful to be given co-author credit on this paper - it meant a lot to me, and I was happy just to have the opportunity to work with such amazing academics and play with some very interesting data!
 
-The entire data collection, wrangling, and visualization process is available on the GitHub repo, including a Binder button in the README that renders the interactive visualization tool. Please check it out!
+The entire data collection, wrangling, and visualization process is available on the GitHub repo, including a Binder button in the README (and right below) that renders the interactive visualization tool. Please check it out!
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jenna-jordan/beepocalypse/master?urlpath=%2Fvoila%2Frender%2FNotebooks%2FVisualize_Query_Results.ipynb)
