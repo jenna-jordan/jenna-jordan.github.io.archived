@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.25"
   overlay_image: /assets/images/home_splash_2020.jpg
   cta_label: "See my resume"
-  cta_url:   "https://drive.google.com/file/d/1KOWoeiAwKvQZ_N2s9PH78XDl3fbEebXs/view?usp=sharing"
+  cta_url:   "https://drive.google.com/file/d/1yYaHlkSwim1HbHEvi3m_UOZOUytOUyee/view?usp=sharing"
 excerpt: "munging, modeling, & managing data; advocate of FAIR data principles, data literacy, & data ethics"
 intro:
   - excerpt: "My name is Jenna Jordan. I'm a data librarian who recently graduated with a Masters in Library and Information Science from the University of Illinois at Urbana Champaign. Here you can read about the classes I took while completing my MSLIS at UIUC, my thoughts and experiences while working my way through grad school, and the projects I've worked on along the way. You can also find out a little bit more about me - including some of my favorite books!"
