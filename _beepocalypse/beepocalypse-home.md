@@ -19,13 +19,13 @@ sidebar:
     text: "[Illinois Data Bank](https://databank.illinois.edu/datasets/IDB-4237085)"
   - title: "Github Repo"
     text: "[beepocalypse](https://github.com/jenna-jordan/beepocalypse)"
-  - title: "Interactive Query Visualizer"
-    text: [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/jenna-jordan/beepocalypse_streamlit/main/app.py)
 
 ---
 
 "No buzz for bees: Media coverage of pollinator decline" was published on January 12, 2021, as a part of the Global Insect Decline special issue in PNAS (Proceedings of the National Academy of Sciences of the USA). You can access the article [here](https://doi.org/10.1073/pnas.2002552117).
 {: .notice--info}
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/jenna-jordan/beepocalypse_streamlit/main/app.py)
 
 At the beginning of the Spring 2020 semester, Dr. May Berenbaum approached the Cline Center for Advanced Social Research about a potential project. Dr. Berenbaum is an entomologist at UIUC who has long researched the issue of pollinator decline. She wanted to see if the increasing levels of concern about pollinators in academic circles was reflected in coverage by the popular press. The Cline Center's Global News Index is a fantastic data resource for studies about media coverage, and our director, Dr. Scott Althaus, has a lot of experience in analyzing media coverage. Thus, the beepocalypse project was born.
 
