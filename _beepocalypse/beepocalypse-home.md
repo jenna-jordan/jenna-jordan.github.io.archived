@@ -33,6 +33,10 @@ One of my primary focuses throughout this process was in developing a reproducib
 
 After over two months of work, we submitted a Perspective article to PNAS in March 2020. The article is titled "No buzz for bees: media coverage of pollinator decline," and was co-written by Drs. Berenbaum and Althaus. Dan Shalmon and I both received co-author credit for our contributions in designing and performing the research, collecting and analyzing the data, and creating figures. I was very excited and grateful to be given co-author credit on this paper - it meant a lot to me, and I was happy just to have the opportunity to work with such amazing academics and play with some very interesting data!
 
-The entire data collection, wrangling, and visualization process is available on the GitHub repo, including a Binder button in the README (and right below) that renders the interactive visualization tool. Please check it out!
+The entire data collection, wrangling, and visualization process is available on the GitHub repo.
+
+The Interactive Query Visualizer is availble through both Streamlit and Binder (links below). Please check it out!
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/jenna-jordan/beepocalypse_streamlit/main/app.py)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jenna-jordan/beepocalypse/master?urlpath=%2Fvoila%2Frender%2FNotebooks%2FVisualize_Query_Results.ipynb)
