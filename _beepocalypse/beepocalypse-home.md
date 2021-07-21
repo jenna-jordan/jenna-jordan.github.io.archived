@@ -19,6 +19,8 @@ sidebar:
     text: "[Illinois Data Bank](https://databank.illinois.edu/datasets/IDB-4237085)"
   - title: "Github Repo"
     text: "[beepocalypse](https://github.com/jenna-jordan/beepocalypse)"
+  - title: "Interactive Query Visualizer"
+    text: [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/jenna-jordan/beepocalypse_streamlit/main/app.py)
 
 ---
 
