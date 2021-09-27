@@ -11,6 +11,9 @@ Here you can find a list of some of the (primarily) non-fiction books that I've 
 
 ## In the middle
 
+"Data and Reality" by William Kent
+:    This book merges databases, philosophy, data modeling... it's a meditation on how we can capture an infinitely complex reality in finite data models that will themselves shape reality. As someone interested in the philosophy of information, this book is a must read. I learned about this book via [@hillelogram](https://twitter.com/hillelogram) on Twitter.
+
 "The Information: A History, a Theory, a Flood" by James Gleick
 :     The concept of "information" has a fascinating history - and this book is a deep dive into everything information, and all of the ways humans have devised to communicate information from pre-literate societies to the computers of the modern era. As an aspiring information scientist, I feel like this book contextualizes everything I am learning, providing a solid foundation for understanding the tools I use for working with data.
 
@@ -48,9 +51,6 @@ Here you can find a list of some of the (primarily) non-fiction books that I've 
 
 ## Next up
 
-"Data and Reality" by William Kent
-:    This book merges databases, philosophy, data modeling... it's a meditation on how we can capture an infinitely complex reality in finite data models that will themselves shape reality. As someone interested in the philosophy of information, this book is a must read. I learned about this book via [@hillelogram](https://twitter.com/hillelogram) on Twitter.
-
 "Smartcuts: How Hackers, Innovators, and Icons Accelerate Success" by Shane Snow
 :    This is a book about lateral thinking, and how people can accomplish incredible things in a very short amount of time. This book tries to rethink success and provide techniques for doing things smarter and faster (by taking "smartcuts," not "shortcuts").
 
@@ -60,7 +60,7 @@ Here you can find a list of some of the (primarily) non-fiction books that I've 
 "Thinking, Fast and Slow" by Daniel Kahneman
 :     This book focuses on how we think - and why that is important to everyday decision making. Kahneman explains that our brain has 2 systems for thinking: System 1 (fast, intuitive, emotional) and System 2 (slower, deliberative, logical), and each has their advantages and disadvantages. By learning when we use each system and what their faults and biases are, we can make better decisions and guard against bad judgements.
 
-## Fiction
+## Recommended Fiction
 
 "Too Like the Lightning" by Ada Palmer (Terra Ignota series)
 :    One of the few fiction books/series I've included on this list, the Terra Ignota series is a fantastic work of narrative philosophy in the guise of science fiction. The author is a historian by profession, and write this book as a history, of revolutionary events set in the 25th century, from the perspective of an unreliable narrator, in the style of 18th century literature, with the "reader" as a character in conversation with the narrating character. The third book in the series, "The Will to Battle," adds philosopher Thomas Hobbes as a third character in the meta-conversation that occurs between the narrating character and the reader. If you are into political theory and science fiction, it doesn't get much better than this.
