@@ -1,6 +1,7 @@
 ---
 title: "IRDB: ASIS&T Presentation"
 permalink: /projects/irdb-presentation-asist19
+collection: international-relations-database
 excerpt: "This project assembles together various projects that collect data on international relations (i.e. Correlates of War, ICOW, Polity IV) into one cohesive relational database. The GitHub repo contains the database schema, the original CSV files, and python scripts for transforming those CSV files into tables for the database."
 header:
   image: /assets/images/project_irdbhome.jpg

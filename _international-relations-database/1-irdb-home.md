@@ -1,6 +1,7 @@
 ---
 title: "IRDB Home"
 permalink: /projects/irdb-home
+collection: international-relations-database
 excerpt: "This series of projects is aimed at improving the data resources for political scientists working in Peace/Conflict research."
 header:
   image: /assets/images/project_irdbhome.jpg

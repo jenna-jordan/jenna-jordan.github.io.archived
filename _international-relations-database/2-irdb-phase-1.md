@@ -1,6 +1,7 @@
 ---
 title: "IRDB: Phase 1"
 permalink: /projects/irdb-phase-1
+collection: international-relations-database
 excerpt: "The first phase of this project focused on combining the main CoW datasets into a relational database. I started this project during the Fall 2018 semester, and finished in Spring 2019."
 header:
   image: /assets/images/project_irdbhome.jpg

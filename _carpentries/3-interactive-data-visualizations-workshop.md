@@ -1,6 +1,7 @@
 ---
 title: "Interactive Data Visualizations in Python"
 permalink: /projects/carpentries-dataviz-workshop
+collection: carpentries
 excerpt: "A Carpentries Incubator lesson I developed for teaching learners how to create interactive data visualizations in Python."
 header:
   image: /assets/images/project_carpentries.jpg

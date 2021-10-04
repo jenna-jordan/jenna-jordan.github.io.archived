@@ -1,6 +1,7 @@
 ---
 title: "Beepocalypse"
 permalink: /projects/beepocalypse-home
+collection: beepocalypse
 excerpt: "Project completed for the Cline Center on media coverage of the beepocalypse."
 header:
   image: /assets/images/project_beepocalypse.jpg

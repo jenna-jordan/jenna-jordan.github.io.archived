@@ -1,6 +1,7 @@
 ---
 title: "IRDB: Phase 2"
 permalink: /projects/irdb-phase-2
+collection: international-relations-database
 excerpt: "The second phase of this project focused on integrating the Correlates of War datasets with the UCDP/PRIO Armed Conflict dataset, the Polity IV dataset, the World Bank World Development Indicators, and CShapes. I worked on this project in Fall 2019 for the iSchool class Open Data Mashups."
 header:
   image: /assets/images/project_irdbhome.jpg

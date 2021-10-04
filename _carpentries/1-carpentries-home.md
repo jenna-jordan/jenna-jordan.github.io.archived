@@ -1,6 +1,7 @@
 ---
 title: "The Carpentries"
 permalink: /projects/carpentries-home
+collection: carpentries
 excerpt: "All about The Carpentries, how I got involved, and what I love about the organization."
 header:
   image: /assets/images/project_carpentries.jpg
