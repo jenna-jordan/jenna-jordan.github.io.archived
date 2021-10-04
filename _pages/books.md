@@ -7,12 +7,17 @@ toc_sticky: true
 comments: true
 ---
 
-Here you can find a list of some of the (primarily) non-fiction books that I've read. If you're interested in the fiction books I've read, that is a much, much longer list and you should probably friend me on Goodreads. There are a few select fiction books I've included in the list, simply because I think they are very intelligent reads that are relevant to the content on this blog. I have been making an effort recently to read more non-fiction books, and I especially like listening to non-fiction audiobooks. So some of the books on this list I haven't actually read... I've listened to them! With the longer audiobooks, I'll often listen for a bit and then switch to a different book... so some of the books will stay on my "in the middle" list for a while. It just means I've put the book on pause, and fully intend on finishing it at some point.
+Here you can find a list of some of the (primarily) non-fiction books that I've read. If you're interested in the fiction books I've read, that is a much, much longer list and you should probably friend me on Goodreads. There are a few select fiction books I've included in the list, simply because I think they are very intelligent reads that are relevant to the content on this blog. I have been making an effort recently to read more non-fiction books, and I especially like listening to non-fiction audiobooks. So some of the books on this list I haven't actually read... I've listened to them!
 
-## In the middle
+## Reading now
 
-"Data and Reality" by William Kent
+"SQL for Data Scientists: a beginner's guide for building datasets for analysis" by Renee M. P. Teate
+:   [I won a hard copy of this book in a promotional giveaway](https://twitter.com/JennaJrdn/status/1434213869640028161?s=20)! I've been following [@BecomingDataSci](https://twitter.com/BecomingDataSci) for a while, and was very excited when she first announced this book. I'm a huge database design nerd, but there are several SQL skills I need to level up in. Follow along as I read the book - [I'm live-tweeting it](https://twitter.com/JennaJrdn/status/1445082245379854336)!
+
+"Data and Reality" by William Kent (2nd ed.)
 :    This book merges databases, philosophy, data modeling... it's a meditation on how we can capture an infinitely complex reality in finite data models that will themselves shape reality. As someone interested in the philosophy of information, this book is a must read. I learned about this book via [@hillelogram](https://twitter.com/hillelogram) on Twitter.
+
+## On Pause
 
 "The Information: A History, a Theory, a Flood" by James Gleick
 :     The concept of "information" has a fascinating history - and this book is a deep dive into everything information, and all of the ways humans have devised to communicate information from pre-literate societies to the computers of the modern era. As an aspiring information scientist, I feel like this book contextualizes everything I am learning, providing a solid foundation for understanding the tools I use for working with data.
@@ -51,11 +56,14 @@ Here you can find a list of some of the (primarily) non-fiction books that I've 
 
 ## Next up
 
+"The Programmer's Brain: What every programmer needs to know about cognition" by Felienne Hermans
+:   This book has been all over my twitter timeline since it came out - and is especially highly recommended from folks with The Carpentries. My goal for reading this book is not only to become a better programmer myself, but also to become a better teacher for all things programming.
+
 "Smartcuts: How Hackers, Innovators, and Icons Accelerate Success" by Shane Snow
 :    This is a book about lateral thinking, and how people can accomplish incredible things in a very short amount of time. This book tries to rethink success and provide techniques for doing things smarter and faster (by taking "smartcuts," not "shortcuts").
 
 "21 Lessons for the 21st Century" by Yuval Noah Harari
-:    By the author of "Sapiens" and "Homo Deus," this book is a set of 21 essays about the most important issues facing humanity today. One of these essays is about how science fiction is today's most important artistic genre! After "Sapiens" and "Homo Deus", I will read anything this man writes.
+:    By the author of "Sapiens" and "Homo Deus," this book is a set of 21 essays about the most important issues facing humanity today. One of these essays is about how science fiction is today's most important artistic genre!
 
 "Thinking, Fast and Slow" by Daniel Kahneman
 :     This book focuses on how we think - and why that is important to everyday decision making. Kahneman explains that our brain has 2 systems for thinking: System 1 (fast, intuitive, emotional) and System 2 (slower, deliberative, logical), and each has their advantages and disadvantages. By learning when we use each system and what their faults and biases are, we can make better decisions and guard against bad judgements.
