@@ -1,9 +1,8 @@
 # jenna-jordan
-### My personal blog
+### My personal website
 
 
-Welcome! This is my personal blog, a place for me to write, learn, and reflect. 
-I will be writing here about such topics as library science, coding for libraries, databases, and more.
+Welcome! This is my personal website, a place for me to write, show off my projects, talk about what I'm reading, etc. 
 
 Visit my blog at: [jennajordan.me](https://jennajordan.me)
 

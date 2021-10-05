@@ -1,7 +1,7 @@
 ---
 permalink: /books/
 title: "The Codex Index"
-last_modified_at: 2019-08-14
+last_modified_at: 2021-10-04
 toc: true
 toc_sticky: true
 comments: true
