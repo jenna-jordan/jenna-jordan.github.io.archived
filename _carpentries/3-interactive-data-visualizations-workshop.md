@@ -20,7 +20,7 @@ sidebar:
 
 I developed this workshop lesson in Summer 2021 as a follow-up to the [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/) lesson. For my personal/work projects, I've been using Streamlit and Plotly to quickly build an online dashboard of interactive data visualizations - and I have 0 web development skills, which really shows the power of Streamlit. So I wanted to teach learners semi-new to Python how to make some data visualization web apps of their own!
 
-This lesson is brand new and has not yet been taught by other instructors (to my knowledge) - so I would really love for other Carpentries Instructors to take it for a spin and let me know how it goes.
+This lesson is brand new and has not yet been taught by other instructors (to my knowledge) - so I would really love for other Carpentries Instructors to take it for a spin and let me know how it goes. If you want to know more about the lesson, you can check out the [Incubator Lesson Spotlight post](https://carpentries.org/blog/2021/09/incubator-lesson-data-visualization-python/) published on September 9, 2021.
 
 ## Lesson Description
 
