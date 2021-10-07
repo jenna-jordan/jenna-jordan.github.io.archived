@@ -63,6 +63,10 @@ Each week I teach for 2 hours, and then learners can practice what they've learn
 
 ## Week 2: The Shell (part 1)
 
+**Lesson Plan:**
+
+- [Shell workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/shell-novice/) (Lessons 1-5)
+
 **Goals:**
 
 - become comfortable navigating your computer via the command line
@@ -75,14 +79,18 @@ Each week I teach for 2 hours, and then learners can practice what they've learn
 - [Assignment 2: The Shell](https://forms.gle/CqZ1zkhdAmdBju8c9)
 - [Answer Key for Assignment 2](https://docs.google.com/document/d/1uvkMieUHK2JM4XPx8mAeEmqvfdNiDSAQc2mUHshrAvE/edit?usp=sharing)
 
-**Resources:**
+**Further Resources:**
 
-- [Shell workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/shell-novice/) (Lessons 1-5)
 - [The Linux Command Line - web tutorials](http://linuxcommand.org/lc3_learning_the_shell.php#contents)
 - [The Linux Command Line - full free textbook](https://phoenixnap.dl.sourceforge.net/project/linuxcommand/TLCL/19.01/TLCL-19.01.pdf)
 - [Explain Shell](https://explainshell.com/)
 
 ## Week 3: The Shell (part 2)
+
+**Lesson Plan:**
+
+- [Shell workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/shell-novice/) (Lessons 6 & 7)
+- [Shell Extras workshop lesson plan from Software Carpentries](http://carpentries-incubator.github.io/shell-extras/) (Lesson 2)
 
 **Goals:**
 
@@ -98,13 +106,15 @@ Each week I teach for 2 hours, and then learners can practice what they've learn
 - [Assignment 3: The Shell cont](https://forms.gle/hVq8VgEBWPyVXC4S8)
 - [Answer Key for Assignment 3](https://docs.google.com/document/d/1B0qwQVUyNudAQ7jGPIAIONmU32FBedkNo4wkyPEsX74/edit?usp=sharing)
 
-**Resources:**
+**Further Resources:**
 
-- [Shell workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/shell-novice/) (Lessons 6 & 7)
-- [Shell Extras workshop lesson plan from Software Carpentries](http://carpentries-incubator.github.io/shell-extras/) (Lesson 2)
 - [Setting up and using the SSH config file](https://linuxize.com/post/using-the-ssh-config-file/)
 
 ## Week 4: Git
+
+**Lesson Plan:**
+
+- [Git workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/git-novice/)
 
 **Goals:**
 
@@ -129,11 +139,11 @@ Each week I teach for 2 hours, and then learners can practice what they've learn
 - [Assignment 4: Git](https://forms.gle/XyEa9RmgznnRuLPx7)
 - [Answer Key for Assignment 4](https://docs.google.com/document/d/1VUVdRvK9YPIEqiVrWX_3pL1DeSr9e-brajbPsx0XgeY/edit?usp=sharing)
 
-**Resources:**
-
-- [Git workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/git-novice/)
-
 ## Week 5: Python (part 1)
+
+**Lesson Plan:**
+
+- [Plotting & Programming in Python workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/python-novice-gapminder/)  (Lessons 1-7)
 
 **Goals:**
 
@@ -148,13 +158,16 @@ Each week I teach for 2 hours, and then learners can practice what they've learn
 
 - [Assignment 5: Python](https://forms.gle/oJYrV2aPVtnVPHJ56)
 
-**Resources:**
+**Further Resources:**
 
-- [Plotting & Programming in Python workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/python-novice-gapminder/)  (Lessons 1-7)
 - [Intro to Anaconda from Software Carpentries](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/)
 
 
 ## Week 6: Python (part 2)
+
+**Lesson Plan:**
+
+- [Plotting & Programming in Python workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/python-novice-gapminder/) (Lessons 8-13)
 
 **Goals:**
 
@@ -169,11 +182,12 @@ Each week I teach for 2 hours, and then learners can practice what they've learn
 - [Assignment 6: Python & pandas](https://forms.gle/XPxxRaBubMaDaptD9)
 - [GitHub repo for the pandas practice](https://github.com/NCRI-io/nclabs_pandaspractice)
 
-**Resources:**
-
-- [Plotting & Programming in Python workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/python-novice-gapminder/) (Lessons 8-13)
-
 ## Week 7: Python (part 3) + requests & REST APIs
+
+**Lesson Plan:**
+
+- [Plotting & Programming in Python workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/python-novice-gapminder/) (Lessons 14-18)
+- [Storing Information with Dictionaries from Software Carpentries](https://cac-staff.github.io/summer-school-2016-Python/11-dicts.html)
 
 **Goals:**
 
@@ -186,14 +200,16 @@ Each week I teach for 2 hours, and then learners can practice what they've learn
 
 - [Assignment 7: Python](https://forms.gle/GGDeBWAmg5Ck7WRA7)
 
-**Resources:**
+**Further Resources:**
 
-- [Plotting & Programming in Python workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/python-novice-gapminder/) (Lessons 14-18)
-- [Storing Information with Dictionaries from Software Carpentries](https://cac-staff.github.io/summer-school-2016-Python/11-dicts.html)
 - [Python & APIs: A Winning Combo for Reading Public Data from Real Python](https://realpython.com/python-api/)
 - [Python API Tutorial: Getting Started with APIs from DataQuest](https://www.dataquest.io/blog/python-api-tutorial/)
 
 ## Week 8: Interactive Data Visualizations
+
+**Lesson Plan:**
+
+- [Interactive Data Visualizations in Python workshop lesson plan](https://carpentries-incubator.github.io/python-interactive-data-visualizations/)
 
 **Goals**
 
@@ -203,11 +219,11 @@ Each week I teach for 2 hours, and then learners can practice what they've learn
 - Learn how to create and run a streamlit app
 - Learn how to add widgets to the streamlit app
 
-**Resources:**
-
-- [Interactive Data Visualizations in Python workshop lesson plan](https://carpentries-incubator.github.io/python-interactive-data-visualizations/)
-
 ## Week 9: Databases & SQL (part 1)
+
+**Lesson Plan:**
+
+- [SQL workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/sql-novice-survey/) (Lessons 1-5)
 
 **Goals:**
 
@@ -221,11 +237,11 @@ Each week I teach for 2 hours, and then learners can practice what they've learn
 
 - [Assignment 8: SQL](https://forms.gle/wWQFYSREEXLkQQMA6)
 
-**Resources:**
-
-- [SQL workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/sql-novice-survey/) (Lessons 1-5)
-
 ## Week 10: Databases & SQL (part 2)
+
+**Lesson Plan:**
+
+- [SQL workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/sql-novice-survey/) (Lessons 6-10)
 
 **Goals:**
 
@@ -240,11 +256,11 @@ Each week I teach for 2 hours, and then learners can practice what they've learn
 - [Assignment 9: SQL](https://forms.gle/hdgDb7KsQU2DhVCw9)
 - Review [Lesson 10](https://swcarpentry.github.io/sql-novice-survey/10-prog/index.html) (Programming with Databases - Python) on your own
 
-**Resources:**
-
-- [SQL workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/sql-novice-survey/) (Lessons 6-10)
-
 ## Week 11: Regular Expressions 
+
+**Lesson Plan:**
+
+- [Regular Expressions workshop lesson plan from Library Carpentries](https://librarycarpentry.org/lc-data-intro/)
 
 **Goals:**
 
@@ -254,7 +270,6 @@ Each week I teach for 2 hours, and then learners can practice what they've learn
 
 - Practice using regular expressions by completing some [Regex Crosswords](https://regexcrossword.com/)
 
-**Resources:**
+**Further Resources:**
 
-- [Regular Expressions workshop lesson plan from Library Carpentries](https://librarycarpentry.org/lc-data-intro/)
 - [Regular Expressions workshop videos from Software Carpentries](https://youtube.com/playlist?list=PL7C1EB31127AB8A0B)
