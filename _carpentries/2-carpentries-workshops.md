@@ -157,6 +157,7 @@ Each week I teach for 2 hours, and then learners can practice what they've learn
 **Assignment:**
 
 - [Assignment 5: Python](https://forms.gle/oJYrV2aPVtnVPHJ56)
+- [Answer Key for Assignment 5](https://docs.google.com/document/d/1FGN-ZHiPPu_dW73kC7o3ks9kWwXP8VtvXcPXe--2B2E/edit?usp=sharing)
 
 **Further Resources:**
 
@@ -167,7 +168,7 @@ Each week I teach for 2 hours, and then learners can practice what they've learn
 
 **Lesson Plan:**
 
-- [Plotting & Programming in Python workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/python-novice-gapminder/) (Lessons 8-13)
+- [Plotting & Programming in Python workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/python-novice-gapminder/) (Lessons 8-12)
 
 **Goals:**
 
@@ -175,7 +176,6 @@ Each week I teach for 2 hours, and then learners can practice what they've learn
 - Learn how to plot data (matplotlib.pyplot)
 - Learn how to work with lists
 - Learn about for loops and the accumulator pattern
-- Learn about conditionals (if, else, elif)
 
 **Assignment:**
 
@@ -186,11 +186,12 @@ Each week I teach for 2 hours, and then learners can practice what they've learn
 
 **Lesson Plan:**
 
-- [Plotting & Programming in Python workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/python-novice-gapminder/) (Lessons 14-18)
+- [Plotting & Programming in Python workshop lesson plan from Software Carpentries](http://swcarpentry.github.io/python-novice-gapminder/) (Lessons 13-18)
 - [Storing Information with Dictionaries from Software Carpentries](https://cac-staff.github.io/summer-school-2016-Python/11-dicts.html)
 
 **Goals:**
 
+- Learn about conditionals (if, else, elif)
 - Looping over files (glob)
 - Learn how to write functions
 - Learn about the dictionary data type
