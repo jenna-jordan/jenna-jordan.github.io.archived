@@ -1,5 +1,5 @@
 ---
-title: "Data Librarian"
+title: "Jenna Jordan"
 layout: splash
 permalink: /
 header:
@@ -8,30 +8,30 @@ header:
   overlay_image: /assets/images/home_splash_2020.jpg
   cta_label: "See my resume"
   cta_url:   "https://drive.google.com/file/d/1ZJW9_O73dFAo0ELybxd6rn_ZRnKCIce6/view?usp=sharing"
-excerpt: "munging, modeling, & managing data; advocate of FAIR data principles, data literacy, & data ethics"
+excerpt: "I do data stuff with python + SQL. Learned to code at library school. Knitter. Dog mom. Nerdy for sci-fi/fantasy, board games, and well-wrangled data."
 intro:
-  - excerpt: "My name is Jenna Jordan. I'm a data librarian who recently graduated with a Masters in Library and Information Science from the University of Illinois at Urbana Champaign. Here you can read about the classes I took while completing my MSLIS at UIUC, my thoughts and experiences while working my way through grad school, and the projects I've worked on along the way. You can also find out a little bit more about me - including some of my favorite books!"
+  - excerpt: "My name is Jenna Jordan, and you've found my personal website. I started this site while earning my Master's in Library & Information Science (MSLIS), and most of the posts are from that time (so you can read all about the classes I took). I do try to keep my portfolio up to date, though, so please take a look through my projects. I'm also a complete bibliophile, so I have some recommended books for y'all as well from my reading list (mostly non-fiction - if you want fiction recommendations go find me on twitter and I will hook you up). Thank you for stopping by :)"
 feature_row:
   - image_path: /assets/images/home_splash_blog.jpg
     alt: "typewriter"
-    title: "My Thoughts"
-    excerpt: "Read my latest content at the blog."
+    title: "Blog"
+    excerpt: "Read my latest thoughts at the blog."
     url: "/blog/"
-    btn_label: "Recent posts"
+    btn_label: "Recent Posts"
     btn_class: "btn--primary"
   - image_path: /assets/images/home_splash_projects.jpg
     alt: "notebook"
-    title: "My Projects"
+    title: "Portfolio"
     excerpt: "Explore the projects I'm working on."
     url: "/projects/"
-    btn_label: "Portfolio"
+    btn_label: "My Projects"
     btn_class: "btn--primary"
   - image_path: /assets/images/home_splash_books.jpg
     alt: "library hidden door"
-    title: "The Codex Index"
+    title: "Books"
     excerpt: "See what I'm reading (and have read)."
     url: "/books/"
-    btn_label: "My Books"
+    btn_label: "Codex Index"
     btn_class: "btn--primary"
 
 feature_row2:
