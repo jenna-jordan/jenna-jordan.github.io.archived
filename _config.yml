@@ -17,7 +17,7 @@ minimal_mistakes_skin: "air" # "default", "air", "aqua", "contrast", "dark", "di
 # Site Settings
 locale: "en-US"
 title: ""
-title_separator: "-"
+title_separator: ""
 subtitle: # site tagline that appears below site title in masthead
 name: "Jenna Jordan"
 description: "All about me - projects, education, thoughts, and more... from a data librarian."
@@ -258,19 +258,16 @@ tag_archive:
 
 # Collections
 collections:
-  international-relations-database:
+  Education:
     output: true
     permalink: /:collection/:path/
-  prisoners-dilemma:
+  Graduation:
     output: true
     permalink: /:collection/:path/
-  beepocalypse:
+  Publications:
     output: true
     permalink: /:collection/:path/
-  tidy-pandas-cookbook:
-    output: true
-    permalink: /:collection/:path/
-  carpentries:
+  Visualizations:
     output: true
     permalink: /:collection/:path/
 
@@ -304,42 +301,34 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _international-relations-database (project)
+  # _Education
   - scope:
       path: ""
-      type: international-relations-database
+      type: Education
     values:
       layout: single
       author_profile: false
       share: true
-  # _prisoners-dilemma (project)
+  # _Graduation
   - scope:
       path: ""
-      type: prisoners-dilemma
+      type: Graduation
     values:
       layout: single
       author_profile: false
       share: true
-  # _beepocalypse (project)
+  # _Publications
   - scope:
       path: ""
-      type: beepocalypse
+      type: Publications
     values:
       layout: single
       author_profile: false
       share: true
-  # _tidy-pandas-cookbook (project)
+  # _Visualizations
   - scope:
       path: ""
-      type: tidy-pandas-cookbook
-    values:
-      layout: single
-      author_profile: false
-      share: true
-  # _carpentries (project)
-  - scope:
-      path: ""
-      type: carpentries
+      type: Visualizations
     values:
       layout: single
       author_profile: false

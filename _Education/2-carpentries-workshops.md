@@ -1,7 +1,7 @@
 ---
-title: "Workshops"
+title: "Carpentries Workshops"
 permalink: /projects/carpentries-workshops
-collection: carpentries
+collection: Education
 toc: true
 toc_sticky: true
 excerpt: "An overview of the workshops I've taught, including a semester-long syllabus."

@@ -1,17 +1,17 @@
 ---
-title: "IRDB: ASIS&T Presentation"
-permalink: /projects/irdb-presentation-asist19
-collection: international-relations-database
-excerpt: "This project assembles together various projects that collect data on international relations (i.e. Correlates of War, ICOW, Polity IV) into one cohesive relational database. The GitHub repo contains the database schema, the original CSV files, and python scripts for transforming those CSV files into tables for the database."
+title: "Put Relational Databases in Your Data Curation Toolbox"
+permalink: /projects/asist2019-poster
+collection: Publications
+excerpt: "I presented my poster 'Put Relational Databases in Your Data Curation Toolbox' at the ASIS&T 2019 Annual Conference."
 header:
   image: /assets/images/project_irdbhome.jpg
   #teaser: assets/images/unsplash-gallery-image-1-th.jpg
 sidebar:
-  - title: Project Name
-    text: "International Relations Database (IRDB)"
+  - title: "Project Name"
+    text: "Put Relational Databases in Your Data Curation Toolbox"
     #image:
   - title: "Description"
-    text: "Phase 1 of the IRDB involves designing a relational database for the Correlates of War datasets and writing python scripts to transform the available datasets into SQL insert statements."
+    text: "Poster presented at the ASIS&T 2019 conference on how relational databases can be useful during the data curation process. Based on work from my [IRDB project](/projects/irdb)"
   - title: "Conference"
     text: "[ASIS&T 82nd Annual Meeting](https://www.asist.org/am19/); October 19-23, 2019; Melbourne, Australia"
   - title: "Github Repo"

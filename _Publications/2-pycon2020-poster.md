@@ -1,7 +1,8 @@
 ---
-title: "Tidy Pandas Cookbook"
-permalink: /projects/tidy-pandas-cookbook
-excerpt: "The Tidy Pandas Cookbook is an accompaniment to my poster for PyCon2020 - 'Python can be tidy too: pandas recipes for normalizing data'"
+title: "Python can be tidy too: pandas recipes for normalizing data"
+permalink: /projects/pycon2020-poster
+collection: Publications
+excerpt: "I virtually presented my poster 'Python can be tidy too: pandas recipes for normalizing data' at PyCon2020, which is accompanied by the Tidy Pandas Cookbook."
 header:
   image: /assets/images/project_tidypandas.jpg
   #teaser: assets/images/unsplash-gallery-image-1-th.jpg
@@ -10,7 +11,7 @@ sidebar:
     text: "Tidy Pandas Cookbook"
     #image:
   - title: "Description"
-    text: "The Tidy Pandas Cookbook is an accompaniment to my poster for PyCon2020 - 'Python can be tidy too: pandas recipes for normalizing data'"
+    text: "The Tidy Pandas Cookbook contains recipes utilizing the pandas library for wrangling datasets into 3rd normal form. A selection of these recipes are demonstrated in the poster."
   - title: "Conference"
     text: "[PyCon2020](https://us.pycon.org/2020/online/posters/); April-May 2020; Online (originally Pittsburgh)"
   - title: "Github Repo"

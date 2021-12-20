@@ -1,12 +1,13 @@
 ---
 title: "Prisoner's Dilemma"
-permalink: /projects/prisoners-dilemma-home
-excerpt: "This project is a Monte Carlo analysis of the Prisoner's Dilemma, with reactive noise."
+permalink: /projects/prisoners-dilemma
+collection: Graduation
+excerpt: "This was my final project for an Intermediate Python course, and is a Monte Carlo analysis of the Prisoner's Dilemma (with reactive noise)."
 header:
   image: /assets/images/project_prisoners-dilemma.jpg
   #teaser: assets/images/unsplash-gallery-image-1-th.jpg
 sidebar:
-  - title: Project Name
+  - title: "Project Name"
     text: "Prisoner's Dilemma"
     #image:
   - title: "Description"

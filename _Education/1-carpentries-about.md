@@ -1,7 +1,7 @@
 ---
-title: "The Carpentries"
-permalink: /projects/carpentries-home
-collection: carpentries
+title: "About The Carpentries"
+permalink: /projects/carpentries-about
+collection: Education
 excerpt: "All about The Carpentries, how I got involved, and what I love about the organization."
 header:
   image: /assets/images/project_carpentries.jpg

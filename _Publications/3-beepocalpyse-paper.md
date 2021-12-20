@@ -1,15 +1,14 @@
 ---
 title: "Beepocalypse"
-permalink: /projects/beepocalypse-home
-collection: beepocalypse
-excerpt: "Project completed for the Cline Center on media coverage of the beepocalypse."
+permalink: /projects/beepocalypse
+collection: Publications
+excerpt: "Project completed for the Cline Center on media coverage of the beepocalypse, resulting in a PNAS Perspective article."
 header:
   image: /assets/images/project_beepocalypse.jpg
   #teaser: assets/images/unsplash-gallery-image-1-th.jpg
 sidebar:
   - title: "Project Name"
     text: "Beepocalypse"
-    #image:
   - title: "Description"
     text: "This project was a collaboration between the Cline Center and Dr. May Berenbaum during the Spring 2020 semester. The project resulted in a Perspective article submitted to PNAS in March 2020, regarding the lack of media coverage on pollinator decline."
   - title: "Relevant Position"
@@ -38,7 +37,7 @@ After over two months of work, we submitted a Perspective article to PNAS in Mar
 
 The entire data collection, wrangling, and visualization process is available on the GitHub repo.
 
-The Interactive Query Visualizer is availble through both Streamlit and Binder (links below). Please check it out!
+The Interactive Query Visualizer was originally published through Binder. I later re-made the app using Streamlit. Links for both sites are included below.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/jenna-jordan/beepocalypse_streamlit/main/app.py)
 
